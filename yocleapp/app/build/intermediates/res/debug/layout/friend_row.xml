@@ -44,4 +44,4 @@
         android:scaleType="centerCrop"
         android:src="@drawable/user" />
 
-</RelativeLayout><!-- From: file:/C:/yocleapp/app/src/main/res/layout/friend_row.xml -->
+</RelativeLayout><!-- From: file:/D:/github_workspace/yocle-android/yocleapp/app/src/main/res/layout/friend_row.xml -->

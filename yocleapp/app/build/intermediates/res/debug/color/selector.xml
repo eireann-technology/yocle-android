@@ -4,4 +4,4 @@
     <item android:state_focused="true" android:color="@android:color/white" />
     <item android:state_pressed="true" android:color="@android:color/white" />
     <item android:color="#A9A9F5" />
-</selector><!-- From: file:/C:/yocleapp/app/src/main/res/color/selector.xml -->
+</selector><!-- From: file:/D:/github_workspace/yocle-android/yocleapp/app/src/main/res/color/selector.xml -->

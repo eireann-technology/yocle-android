@@ -3,4 +3,4 @@
     <item android:drawable="@color/grey_light" android:state_pressed="true"/>
     <item android:drawable="@color/fff" android:state_focused="true"/>
     <item android:drawable="@color/fff"/>
-</selector><!-- From: file:/C:/yocleapp/app/src/main/res/drawable/memberstatus.xml -->
+</selector><!-- From: file:/D:/github_workspace/yocle-android/yocleapp/app/src/main/res/drawable/memberstatus.xml -->

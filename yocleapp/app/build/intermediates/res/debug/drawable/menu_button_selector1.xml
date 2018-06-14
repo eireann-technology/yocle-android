@@ -3,4 +3,4 @@
     <item android:drawable="@color/skyblue_onpress" android:state_pressed="true"/>
     <item android:drawable="@color/skyblue_onpress" android:state_focused="true"/>
     <item android:drawable="@color/skyblue"/>
-</selector><!-- From: file:/C:/yocleapp/app/src/main/res/drawable/menu_button_selector1.xml -->
+</selector><!-- From: file:/D:/github_workspace/yocle-android/yocleapp/app/src/main/res/drawable/menu_button_selector1.xml -->
