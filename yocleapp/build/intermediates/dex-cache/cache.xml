@@ -2,886 +2,361 @@
 <items version="2" >
 
     <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d405025c600055237c171a0bbabaa49d69696573">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-afca3f94a99d386378cff15f3fc37b3f16974498.jar" />
-    </item>
-    <item
-        jar="C:\Users\pong2\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0-772b43083c46806198d5a4c1c51c7b4363a39525.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-15666750fe6d8053a98038ddea679a9126e020fc.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="26674000177e45447a0326a6ad84612761199a13">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-6b1277cfafa7f861319d845dde70fa5ffba07a04.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-9b5a36b017ee17580048115f4ab2a3a82aafbb33.jar" />
-    </item>
-    <item
-        jar="C:\ViewPagerTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\classes-45155ab1dce04ae4507e98e16123781a94153785.jar" />
-    </item>
-    <item
-        jar="C:\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-2ae16885631d75a235169e0bf5311b3600d43c03.jar" />
-    </item>
-    <item
-        jar="C:\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="b95d10913c24f217dca25ccfb8293a04ebfed3a8">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\classes-28c82946cf1317949ffab428b1ec5a743dea4e7f.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-44a24d5d6c14d6e7999baf55343846872cb7d8f3.jar" />
-    </item>
-    <item
-        jar="C:\android\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0-ce6b9cc59943d73262bc7d387d07c1fb2332800b.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-72568796ad44abe54631375161071bf4ddcd762e.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.2.1\jars\libs\internal_impl-23.2.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="bd48446a8b4b2fdcac0e38f49b5d6dc3abb1eefa">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1-d13f1644be6e5c4fb7137cfe7809334f302d3967.jar" />
-    </item>
-    <item
-        jar="C:\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.2.1\jars\libs\internal_impl-23.2.1.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="bd48446a8b4b2fdcac0e38f49b5d6dc3abb1eefa">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1-2c3aece6655f80bf013fc7a9f039f5250a653764.jar" />
-    </item>
-    <item
-        jar="C:\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\classes-a177b1d1ce461025bb8fe304b86cabc20c71439a.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\libs\YouTubeAndroidPlayerApi.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi-288dcc36624ec5df1d8d34f66ad4a26a2c19c9c5.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-f713bc54a6bfb2175c247f09c664d212a27fd923.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-2c1bb1c0f679a6d863ab62464623e04d9c3c390f.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-bf2a2175b56402d41e99286ea2e3183bc528b81c.jar" />
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/classes-5113a048021e315ed56cd4323d3f33d3f8d62d88.jar" />
     </item>
     <item
-        jar="C:\ViewPagerTest\app\libs\YouTubeAndroidPlayerApi.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi-d7f91a5e71f1698368016f54c9689dbab98fe1b3.jar" />
-    </item>
-    <item
-        jar="C:\ViewPagerTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\classes-c085f98e556820258c885486500648b9add7c993.jar" />
-    </item>
-    <item
-        jar="C:\ViewPagerTest\app\libs\gson-2.3.1.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\gson-2.3.1-24936ebec081c5106eaecaf01a31acd21bf6801f.jar" />
-    </item>
-    <item
-        jar="C:\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\customtabs\23.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="0e5a66a941515d873a34065fe44fbba6ef422a1b">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\classes-d5c9ae432c47ddb98a9be23d3ea919b8f3e63c9b.jar" />
-    </item>
-    <item
-        jar="C:\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="673d77a5bbddd766037f088e775df525c46407f0">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\classes-4475607e1d2cdfbb594d96991002f39d19aacd60.jar" />
-    </item>
-    <item
-        jar="C:\Users\pong2\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0-772b43083c46806198d5a4c1c51c7b4363a39525.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.2.1\jars\libs\internal_impl-23.2.1.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="bd48446a8b4b2fdcac0e38f49b5d6dc3abb1eefa">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1-d13f1644be6e5c4fb7137cfe7809334f302d3967.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-3891508b7324961e9d0e8ee43a1ddb0c69c5d7ca.jar" />
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/classes-827234b06dece57f541af8c90502d4f37ac53356.jar" />
     </item>
     <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-7c9af0683185ac2a5d09ac4a07712b8bd3a8fd94.jar" />
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/classes-848ac4887001d8286df191852d318937f80533f7.jar" />
     </item>
     <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.2.1\jars\classes.jar"
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/libs/picasso-2.2.0.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="b95d10913c24f217dca25ccfb8293a04ebfed3a8">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-632f89332ad0f9e5636fbb5185d7235fa86c1e98.jar" />
+        sha1="74137f8d9aac26dd9463efe32271f2be8d41cda9">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/picasso-2.2.0-2e7279a7ccbd4a8f675939a818fe77b204e759b6.jar" />
     </item>
     <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-05417ee4221628e433b3d6daa03913c3a230222f.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/libs/disklrucache-1.3.1.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0-71deacb676d1f8ae4fbd36d17aae54efc6f6f2ab.jar" />
+        sha1="7d14a74fb87b3e0a7df770036db5f8454b475a07">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/disklrucache-1.3.1-be6fde336419a19141d55eafb9429a5df195b267.jar" />
     </item>
     <item
-        jar="C:\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
         jumboMode="false"
-        revision="20.0.0"
+        revision="23.0.1"
         sha1="a1372c17fccacca753d3951d3ad820571cbce075">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\classes-34b252918da5fe01a3c2e2a2c7b7bd0b0be17dc9.jar" />
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/classes-686e21c92bc52dece8e9c3e90601aa8a66b91025.jar" />
     </item>
     <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\customtabs\23.2.1\jars\classes.jar"
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
         jumboMode="false"
-        revision="23.0.3"
-        sha1="0e5a66a941515d873a34065fe44fbba6ef422a1b">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-8ca9b0c3235a6a83e39432cfee1d117fab57addd.jar" />
+        revision="23.0.1"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/classes-2e160fc05be6dc0f8c10bba2440c32af43b219cc.jar" />
     </item>
     <item
-        jar="C:\ViewPagerTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/jars/classes.jar"
         jumboMode="false"
-        revision="20.0.0"
-        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\classes-5968ee0fc175aa4d56504a571528d0c5bcab3c0a.jar" />
+        revision="23.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/classes-e92ce7730294be9b88dbef7ef40e6ef07af70f05.jar" />
     </item>
     <item
-        jar="C:\ViewPagerTest\app\libs\bugsense-3.6.1.jar"
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/libs/bugsense-3.6.1.jar"
         jumboMode="false"
-        revision="20.0.0"
+        revision="23.0.1"
         sha1="bf354591194bef969ec162609bd1cc279d2d113b">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\bugsense-3.6.1-b62f5e9c86456791b3f095ef6dd9c7ab779ca51e.jar" />
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/bugsense-3.6.1-27251a481084daf0d015b43e4a9c37ff12908f33.jar" />
     </item>
     <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/jars/classes.jar"
         jumboMode="false"
-        revision="23.0.3"
-        sha1="bd48446a8b4b2fdcac0e38f49b5d6dc3abb1eefa">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1-d13f1644be6e5c4fb7137cfe7809334f302d3967.jar" />
+        revision="23.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/classes-925cefbe4216201335118dea0bde6e6572262397.jar" />
     </item>
     <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-f2b150ba32626faed4bc38480fa480c19050cd01.jar" />
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/classes-3dbed3eeb4ffec30f82dd8e484f1100ade4c4ee3.jar" />
     </item>
     <item
-        jar="C:\ViewPagerTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\classes-90bb2a513523f4edca9c149d94cb675577dcb480.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-412d14dd6053b226bec899cfdd6c6d9a9ecbf6c0.jar" />
+        sha1="43a08f2cc1bc8e9678b5a1740f3b91b50ab50ac6">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/classes-87668325beb90815626c1aa665ff6e3e5f2bf77e.jar" />
     </item>
     <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.0.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-dce192be86e4445ba35a3e50152e9f06ba826646.jar" />
+        sha1="e4a9d42c6d45eed4fd52f28dee859884131eae4c">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/classes-e4245d5fa96e28a65f83499924cff2cb87759862.jar" />
     </item>
     <item
-        jar="C:\ViewPagerTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="a78183f30e769a98ab4820794f597763088d3065">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\classes-c0647c974d4bbad326b68545739a4bccf4948ce7.jar" />
-    </item>
-    <item
-        jar="C:\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\classes-49e9ea17b27589fec8fb96b2a3944316424c37ba.jar" />
-    </item>
-    <item
-        jar="C:\ViewPagerTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\classes-2a2c8d9546e7ee793c4c60062e16a3595b4e70d7.jar" />
-    </item>
-    <item
-        jar="C:\ViewPagerTest\app\libs\disklrucache-1.3.1.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="7d14a74fb87b3e0a7df770036db5f8454b475a07">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\disklrucache-1.3.1-e0e5df57cdf041adbfb85afe8632d8f2232f8805.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-da42b086e22322dcbf35c5375a5e3e29ad2672bb.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-880fe20e6add77130868dfdea537fd8cbd079b1c.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.22.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d5cbc9214ee567ea6ef56fb2707d48e58d240fc2">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-52a6b19198a16e7919d601a014d354c0b0ad2b2a.jar" />
-    </item>
-    <item
-        jar="C:\ViewPagerTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\classes-5d513e53d03ec3a135672a7eb76cbbcb858acccc.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-12bb5644e5f29d885867e6310a6508752582434c.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-a6d6bfc5338e4811e1f81ad176b2a7dfbc9fa684.jar" />
-    </item>
-    <item
-        jar="C:\ViewPagerTest\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.12.1\jars\classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="26645b518694e20a97fc19a6a3c3933c0cc41bc1">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\classes-dc09fe834ef4cf541c832155ef987d558b7defcb.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-839621166c2538d42b6c41a937ecc5928e260ed8.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\libs\gson-2.3.1.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\gson-2.3.1-177295867f205df3de4732aa01e35135c8da12fd.jar" />
-    </item>
-    <item
-        jar="C:\ViewPagerTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\classes-cab8ffb1b2de6b2026b82d4f11ee27cbed89414a.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-a87ac766e4a88950f497bbd7e5e902df2558b155.jar" />
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/classes-842cff867c54fb155a9b2f3111a2786090b79c1c.jar" />
     </item>
     <item
-        jar="C:\yocleapp\app\libs\picasso-2.2.0.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="74137f8d9aac26dd9463efe32271f2be8d41cda9">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\picasso-2.2.0-abfce79e3e6c9030f539dea540e2988c0d93e70b.jar" />
-    </item>
-    <item
-        jar="C:\Users\pong2\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.4.0\cc174c559b5177982887bf6e1b76003aebad9516\bolts-android-1.4.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="cc174c559b5177982887bf6e1b76003aebad9516">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\bolts-android-1.4.0-63be815430f5a9cb5ccdb210caf7e12fc47a8b0c.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-dce192be86e4445ba35a3e50152e9f06ba826646.jar" />
-    </item>
-    <item
-        jar="C:\ViewPagerTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\classes-955d35eabd19b3d54428ed5ec699de4033cc0fb6.jar" />
-    </item>
-    <item
-        jar="C:\ViewPagerTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\classes-09cc62e092b2a252ab3c1fcfee8cd848553db62a.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-7cc5ad4476efc5b5e84de37a54aa8a3f366d1fec.jar" />
-    </item>
-    <item
-        jar="C:\ViewPagerTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\classes-a59e10a62e2c03c2d0a0d272c6ac6731541c21ec.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-6c299ea5b2e6eb3e990473a3beacdbd3822da896.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\libs\gson-2.3.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\gson-2.3.1-177295867f205df3de4732aa01e35135c8da12fd.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0-6735c646bff1b656fafa698079d386859e58768d.jar" />
-    </item>
-    <item
-        jar="C:\Users\pong2\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0-411cc0c2873dfb31a3f8420835b9280a278d2034.jar" />
-    </item>
-    <item
-        jar="C:\ViewPagerTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\classes-8758b902a76c8eae88d319117e492d40354c9d09.jar" />
-    </item>
-    <item
-        jar="C:\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\classes-5a50fd6f2435f29fcdea7a4cd9cdc8bced76ea92.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\libs\picasso-2.2.0.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="74137f8d9aac26dd9463efe32271f2be8d41cda9">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\picasso-2.2.0-abfce79e3e6c9030f539dea540e2988c0d93e70b.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-ba3e9fa434effaa3d193e2a22921e12c34807672.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\libs\disklrucache-1.3.1.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="7d14a74fb87b3e0a7df770036db5f8454b475a07">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\disklrucache-1.3.1-0ef99cdfe3ba981518744bd25fc50bf21fe2fb09.jar" />
-    </item>
-    <item
-        jar="C:\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\classes-ddc7f0e8adfb0e9e5d675aac896874f46936774a.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\libs\YouTubeAndroidPlayerApi.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi-288dcc36624ec5df1d8d34f66ad4a26a2c19c9c5.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-a6d6bfc5338e4811e1f81ad176b2a7dfbc9fa684.jar" />
-    </item>
-    <item
-        jar="C:\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1-ff45d2916344a735615e3fc6ea209e8fa1dc7cf1.jar" />
-    </item>
-    <item
-        jar="C:\Users\pong2\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.4.0\cc174c559b5177982887bf6e1b76003aebad9516\bolts-android-1.4.0.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="cc174c559b5177982887bf6e1b76003aebad9516">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\bolts-android-1.4.0-63be815430f5a9cb5ccdb210caf7e12fc47a8b0c.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\customtabs\23.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="0e5a66a941515d873a34065fe44fbba6ef422a1b">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-8ca9b0c3235a6a83e39432cfee1d117fab57addd.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-13ce695ded10b5f8ca84a8dd05dd7e543bb5dbe9.jar" />
-    </item>
-    <item
-        jar="C:\ViewPagerTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\classes-25f192f5509b1aeccccd36a70f3c67d5a8740e9c.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0-0dc64aaaa615b47da9a2e6d65563d3d9612d1af3.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\libs\bugsense-3.6.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="bf354591194bef969ec162609bd1cc279d2d113b">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\bugsense-3.6.1-454e0782d80956d1644c1f385b8f9be265fba45b.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\libs\disklrucache-1.3.1.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="7d14a74fb87b3e0a7df770036db5f8454b475a07">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\disklrucache-1.3.1-0ef99cdfe3ba981518744bd25fc50bf21fe2fb09.jar" />
-    </item>
-    <item
-        jar="C:\Users\pong2\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0-411cc0c2873dfb31a3f8420835b9280a278d2034.jar" />
-    </item>
-    <item
-        jar="C:\ViewPagerTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\classes-ec35610a9bcac172b1c60fbed31015abc31f6a24.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-15666750fe6d8053a98038ddea679a9126e020fc.jar" />
-    </item>
-    <item
-        jar="C:\ViewPagerTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\classes-f5c50fbc2de4a32bc5f9d4b13a663550796f2b2c.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\libs\YouTubeAndroidPlayerApi.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi-288dcc36624ec5df1d8d34f66ad4a26a2c19c9c5.jar" />
-    </item>
-    <item
-        jar="C:\Users\pong2\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0-772b43083c46806198d5a4c1c51c7b4363a39525.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-ba3e9fa434effaa3d193e2a22921e12c34807672.jar" />
-    </item>
-    <item
-        jar="C:\android\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1-f02d4c08ed3e08f4fcbb76d47597d096a16755aa.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-5288621507ca7cb42f04e7d0f5dbf532ef1ba4d0.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-a6d6bfc5338e4811e1f81ad176b2a7dfbc9fa684.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\libs\picasso-2.2.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="74137f8d9aac26dd9463efe32271f2be8d41cda9">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\picasso-2.2.0-abfce79e3e6c9030f539dea540e2988c0d93e70b.jar" />
-    </item>
-    <item
-        jar="C:\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\classes-dd17a998b1da2ff5052812b710eb535989d0c91e.jar" />
-    </item>
-    <item
-        jar="C:\Users\pong2\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.4.0\cc174c559b5177982887bf6e1b76003aebad9516\bolts-android-1.4.0.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="cc174c559b5177982887bf6e1b76003aebad9516">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\bolts-android-1.4.0-63be815430f5a9cb5ccdb210caf7e12fc47a8b0c.jar" />
-    </item>
-    <item
-        jar="C:\ViewPagerTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\classes-cfc0144561669179b5981acaef1c12a3966c8aa5.jar" />
-    </item>
-    <item
-        jar="C:\ViewPagerTest\app\libs\picasso-2.2.0.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="74137f8d9aac26dd9463efe32271f2be8d41cda9">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\picasso-2.2.0-e543e67f3dbe50b1453990e6964c840b264d7f80.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-d9ed9cccb0f801dbeceb133df05cf90e6485a4b5.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\libs\bugsense-3.6.1.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="bf354591194bef969ec162609bd1cc279d2d113b">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\bugsense-3.6.1-454e0782d80956d1644c1f385b8f9be265fba45b.jar" />
-    </item>
-    <item
-        jar="C:\ViewPagerTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="d405025c600055237c171a0bbabaa49d69696573">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\classes-f1499f6a29aeedc8147121b59a828ee8f0a4dc7d.jar" />
-    </item>
-    <item
-        jar="C:\ViewPagerTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\classes-99c0375e5ebfd0d7b5203bc006996c88afe45016.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="b95d10913c24f217dca25ccfb8293a04ebfed3a8">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-632f89332ad0f9e5636fbb5185d7235fa86c1e98.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0-6735c646bff1b656fafa698079d386859e58768d.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="a78183f30e769a98ab4820794f597763088d3065">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-74734295918d637476bc90b4c8989390dc84d206.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-6c299ea5b2e6eb3e990473a3beacdbd3822da896.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-dcef21f949cdfbf7cd41b459f6355e2ff68afa0b.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-f713bc54a6bfb2175c247f09c664d212a27fd923.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\libs\disklrucache-1.3.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="7d14a74fb87b3e0a7df770036db5f8454b475a07">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\disklrucache-1.3.1-0ef99cdfe3ba981518744bd25fc50bf21fe2fb09.jar" />
-    </item>
-    <item
-        jar="C:\android\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0-ce6b9cc59943d73262bc7d387d07c1fb2332800b.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\libs\gson-2.3.1.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\gson-2.3.1-177295867f205df3de4732aa01e35135c8da12fd.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-c3059540495ebd5688a57e755130957124e65e18.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-ba3e9fa434effaa3d193e2a22921e12c34807672.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\libs\bugsense-3.6.1.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="bf354591194bef969ec162609bd1cc279d2d113b">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\bugsense-3.6.1-454e0782d80956d1644c1f385b8f9be265fba45b.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-6e03beb8db7d558c0c4e9ea715f25ab32cb13c80.jar" />
-    </item>
-    <item
-        jar="C:\ViewPagerTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\classes-276cdb9df0592e8c1ac533fc55de47bdd238fd4e.jar" />
-    </item>
-    <item
-        jar="C:\ViewPagerTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\classes-5fabede070840371cf55e91778913ea3bc9ca64a.jar" />
-    </item>
-    <item
-        jar="C:\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
-        <dex dex="C:\ViewPagerTest\app\build\intermediates\pre-dexed\debug\classes-24f6058d1f9c12e53430d241d014fb806a427b35.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0-da80d77013fdc05fc2a6506fd2a153ae6acc6178.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-6c299ea5b2e6eb3e990473a3beacdbd3822da896.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-d9e11ea023cdd546da3d34dc2199f9d55d16c3e6.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-73e0618dda5959589c27b4d899067c146a483b8e.jar" />
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/classes-64fdd13fb9046e1c31dc2e7ecfa0881fa75e4a4d.jar" />
     </item>
     <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0-1d0fafb314c18efc24d280c8b82e0210acd0c39a.jar" />
-    </item>
-    <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-7f2232194b0f0279981a79a1c6ac8bd82e0bb7a2.jar" />
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/classes-029dff590ba1c5553377fee7e64ef2c4d245e7d3.jar" />
     </item>
     <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\customtabs\23.2.1\jars\classes.jar"
+        jar="/Users/alanpoon/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="0e5a66a941515d873a34065fe44fbba6ef422a1b">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-8ca9b0c3235a6a83e39432cfee1d117fab57addd.jar" />
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0-2ab9e86d36a4c7c007f58dbb999402e7e0860d89.jar" />
     </item>
     <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.2.1\jars\classes.jar"
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
         jumboMode="false"
-        revision="23.0.3"
-        sha1="b95d10913c24f217dca25ccfb8293a04ebfed3a8">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-632f89332ad0f9e5636fbb5185d7235fa86c1e98.jar" />
+        revision="23.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/classes-b9e705762ae92477d8b0f79da4ce61a5e2e1feeb.jar" />
     </item>
     <item
-        jar="C:\Users\pong2\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
         jumboMode="false"
-        revision="23.0.3"
+        revision="23.0.1"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/classes-371953d5f53f48931355509404562d75bb3ce1da.jar" />
+    </item>
+    <item
+        jar="/Users/alanpoon/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.4.0/cc174c559b5177982887bf6e1b76003aebad9516/bolts-android-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cc174c559b5177982887bf6e1b76003aebad9516">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/bolts-android-1.4.0-714e4253afe95ebb964201650aad057fef5fea16.jar" />
+    </item>
+    <item
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/classes-1de5ec8990b653e30fb73bd530c6ea7c1ece9396.jar" />
+    </item>
+    <item
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/classes-b6e683617773871763f600fd65fc9f7faa9f666a.jar" />
+    </item>
+    <item
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-67cabeb24d0f588717210be390db9f93c549f95d.jar" />
+    </item>
+    <item
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/libs/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/gson-2.3.1-ce83b9e4e4d6e2e92707b129c0c99d30f0ef3f98.jar" />
+    </item>
+    <item
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8c046c952177602c858ed41c8fc492c939bde9aa">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/classes-bf4d62925b96eb8515f1e245df1e459d04df49f8.jar" />
+    </item>
+    <item
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/classes-f1c76a87a7b11c3e0ce1718007954798ab7c4e09.jar" />
+    </item>
+    <item
+        jar="/Users/alanpoon/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
         sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0-411cc0c2873dfb31a3f8420835b9280a278d2034.jar" />
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-d06e71ec371561a9aadfff26a8721ff0838bf68d.jar" />
     </item>
     <item
-        jar="C:\yocleapp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0-49aa19cede1a2ea5a9de1a6718a5c0a498f74af1.jar" />
+    </item>
+    <item
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/classes-4383828ac83d157671fbdb8b26d7958ee574287f.jar" />
+    </item>
+    <item
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/classes-5024234c15a656618bd4c9367f41f875e795b3e7.jar" />
+    </item>
+    <item
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0-5d618bb2167b89f726611a9b5de0321d6730d81a.jar" />
+    </item>
+    <item
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/classes-b9488f93c2e6d4ddd0b1e8493ef7a1e21f71501c.jar" />
+    </item>
+    <item
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/classes-532d871f5e6cb45bce4b8d7cb47afcc6cd0ef777.jar" />
+    </item>
+    <item
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/classes-0eb4cc6f4790fbf20c1abfceca60efd73ffd2fee.jar" />
+    </item>
+    <item
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi-10db61148da6a93563a5ee2373ef6629aa4d228e.jar" />
+    </item>
+    <item
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
-        <dex dex="C:\yocleapp\app\build\intermediates\pre-dexed\debug\classes-05417ee4221628e433b3d6daa03913c3a230222f.jar" />
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/classes-97b2160a45e9e37aea69c9557832d4489fcdf557.jar" />
+    </item>
+    <item
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/classes-ae7afe3365ddf4d5890af3415da21cdf3f75c83e.jar" />
+    </item>
+    <item
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/classes-4ed89dea4762ade2faa600019e0a05a16e2df73d.jar" />
+    </item>
+    <item
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/classes-8d691882edcbd4dcd0787ba27b382b791d6f7bf3.jar" />
+    </item>
+    <item
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0-8951bda5d8286952eb3c8801c0cb2f2718ad3501.jar" />
+    </item>
+    <item
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0-325df9aeaa60a6df9fcdefdfc535c082e1c8724a.jar" />
+    </item>
+    <item
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/classes-07e72c57719c7acfda7688a2920603cd94a68fe1.jar" />
+    </item>
+    <item
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a0c456a59e1edab84702b48a626705aa1d830ccc">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-3d6326a9d76222fc3dd9caab23cfd60ae88494cc.jar" />
+    </item>
+    <item
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/classes-c99ac25ecc5b839acf579c9a74e1bbabb7293b6b.jar" />
+    </item>
+    <item
+        jar="/Users/alanpoon/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/25.0.0/a22d2cc94da87b254451fa8ed28afc30b4653773/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0-cde2bcbcc1136fed0fa4aa4eb44f5a009aef8eda.jar" />
+    </item>
+    <item
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/classes-d66b439d2ceb55aefd42f24299715b710f2810ee.jar" />
+    </item>
+    <item
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/classes-b87f1babf6655e3991998a4340e8cf0938b45c7a.jar" />
+    </item>
+    <item
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/classes-f3ff4c25e2a4b90f1def528a54328d6d3d28229e.jar" />
+    </item>
+    <item
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0-c2e8ebdb4691aa8cc048b382894547ad32761cb9.jar" />
+    </item>
+    <item
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/classes-d50cb5943712fbafa89a8bf196a5f14884142cb9.jar" />
+    </item>
+    <item
+        jar="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/alanpoon/github_repo/yocle-android/yocleapp/app/build/intermediates/pre-dexed/debug/classes-a0397e6761f678514fabcdb8698f75328dfa91bd.jar" />
     </item>
 
 </items>
