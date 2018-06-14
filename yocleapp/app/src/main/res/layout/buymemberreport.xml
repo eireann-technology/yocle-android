@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#F2F2F2"
+    android:orientation="vertical" >
+    <View android:id="@+id/titleDivider"
+        android:layout_width="match_parent"
+        android:layout_height="2dip"
+        android:background="#000000" />
+
+    <TextView
+        android:id="@+id/desc"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginRight="18dp"
+        android:layout_marginLeft="18dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:text=""
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        />
+
+
+    <Button
+        android:id="@+id/m1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/dialogbutton"
+        android:clickable="true"
+        android:text=""
+        android:textColor="@color/actionbar_text"
+        android:layout_marginRight="18dp"
+        android:layout_marginLeft="18dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="15dp"
+        android:textSize="18sp"
+        android:layout_weight="1"
+        android:padding="10px" />
+
+    <Button
+        android:id="@+id/m3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/dialogbutton"
+        android:clickable="true"
+        android:text=""
+        android:textColor="@color/actionbar_text"
+            android:layout_marginRight="18dp"
+            android:layout_marginLeft="18dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="15dp"
+            android:textSize="18sp"
+        android:layout_weight="1"
+        android:padding="10px" />
+    <Button
+        android:id="@+id/m6"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/dialogbutton"
+        android:clickable="true"
+        android:text=""
+        android:textColor="@color/actionbar_text"
+        android:layout_marginRight="18dp"
+        android:layout_marginLeft="18dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="15dp"
+        android:textSize="18sp"
+        android:layout_weight="1"
+        android:padding="10px" />
+    <Button
+        android:id="@+id/m12"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/dialogbutton"
+        android:clickable="true"
+        android:text=""
+        android:textColor="@color/actionbar_text"
+        android:layout_marginRight="18dp"
+        android:layout_marginLeft="18dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="15dp"
+        android:textSize="18sp"
+        android:layout_weight="1"
+        android:padding="10px" />
+
+    <Button
+        android:id="@+id/report"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/dialogbutton"
+        android:clickable="true"
+        android:text=""
+        android:textColor="@color/actionbar_text"
+        android:layout_marginRight="18dp"
+        android:layout_marginLeft="18dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="15dp"
+        android:textSize="18sp"
+        android:layout_weight="1"
+        android:padding="10px" />
+
+    <Button
+        android:id="@+id/cancel"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/dialogbutton"
+        android:clickable="true"
+        android:text=""
+        android:textColor="@color/actionbar_text"
+        android:layout_marginRight="18dp"
+        android:layout_marginLeft="18dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="15dp"
+        android:textSize="18sp"
+        android:layout_weight="1"
+        android:padding="10px" />
+
+</LinearLayout>

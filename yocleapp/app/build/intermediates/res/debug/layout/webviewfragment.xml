@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/swipe"
+        android:layout_width="match_parent"
+        android:layout_marginTop="0dp"
+        android:layout_height="match_parent">
+
+  <WebView
+    android:id="@+id/webview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+	/>
+    </android.support.v4.widget.SwipeRefreshLayout>
+
+  <ProgressBar 
+      android:id="@+id/progress1"
+      android:layout_centerHorizontal="true"
+      android:layout_centerVertical="true"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      />
+
+<!--
+    <LinearLayout
+        android:id="@+id/loginbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true"
+        android:background="#8b9dc3"
+        android:alpha=".9"
+        android:visibility="gone"
+        >
+
+        <Button
+            android:id="@+id/login"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="@string/loginfirst"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_paddingLeft="10dp"
+            android:layout_paddingRight="10dp"
+        />
+
+    </LinearLayout>
+-->
+<!--
+   <LinearLayout
+       android:id="@+id/likebar"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="horizontal"
+       android:layout_alignParentBottom="true"
+       android:background="#8b9dc3"
+       android:alpha=".9"
+       android:visibility="gone"
+       >
+
+       <TextView
+           android:id="@+id/textView1"
+           android:layout_width="0dp"
+           android:layout_height="wrap_content"
+           android:text="你想看到免費的每週報告? 給我們一個 Like "
+           android:textSize="16sp"
+           android:layout_weight="0.7"
+           android:gravity="center_vertical"
+           android:layout_gravity="center_vertical"
+           android:textColor="#ffffff"/>
+
+       <ImageButton
+           android:id="@+id/fblogin"
+           android:layout_height="wrap_content"
+           android:layout_width="0dp"
+           android:layout_weight="0.3"
+           android:src="@drawable/facebooklike"
+           android:visibility="gone"/>
+
+       <com.facebook.widget.LikeView
+           android:id="@+id/like_view"
+           android:layout_width="0dp"
+           android:layout_height="wrap_content"
+           android:text="Like"
+           android:layout_weight="0.3"
+           android:gravity="center_vertical"></com.facebook.widget.LikeView>
+
+
+   </LinearLayout>
+-->
+<!--
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab"
+        style="@style/FabStyle"
+        app:layout_anchor="@id/webview"
+
+        />
+-->
+</RelativeLayout>
+
+<!-- From: file:/C:/yocleapp/app/src/main/res/layout/webviewfragment.xml -->

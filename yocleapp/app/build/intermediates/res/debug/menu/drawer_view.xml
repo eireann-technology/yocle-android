@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_whatsnew"
+            android:icon="@drawable/ic_one"
+            android:title="最新消息" />
+        <item
+            android:id="@+id/nav_record"
+            android:icon="@drawable/ic_instantmsg"
+            android:title="最新戰績" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_one"
+            android:title="關於我們" />
+        <item
+            android:id="@+id/nav_service"
+            android:icon="@drawable/ic_one"
+            android:title="投資課程" />
+        <item
+            android:id="@+id/nav_prediction"
+            android:icon="@drawable/ic_one"
+            android:title="過往預測" />
+        <item
+            android:id="@+id/nav_testimonial"
+            android:icon="@drawable/ic_one"
+            android:title="學生感言" />
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/ic_one"
+            android:title="聯絡我們" />
+        <item
+            android:id="@+id/nav_useful"
+            android:icon="@drawable/ic_one"
+            android:title="基礎教學/實用連結" />
+    </group>
+</menu>
+    
+<!-- From: file:/C:/yocleapp/app/src/main/res/menu/drawer_view.xml -->

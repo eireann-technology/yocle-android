@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/area"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1"
+    android:background="#ffffffff">
+<!-- The ActionBar -->
+<include
+    layout="@layout/toolbar"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" />
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.33"
+        android:id="@+id/imageView2"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pls_enter_share_txt"
+        android:layout_weight="0.09"
+        android:layout_margin="10px"
+        android:editable="true"
+        android:textSize="20dp"
+        android:textColor="#ff0000ff"
+        android:gravity="center" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.33"
+        android:layout_margin="10px"
+        android:singleLine="false"
+        android:selectAllOnFocus="true"
+        android:background="#ffd8d8d8"
+        android:gravity="top"
+        android:textColor="#ff000000">
+        <requestFocus />
+    </EditText>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+    <Button
+        android:layout_weight="0.82"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/confirm"
+        android:id="@+id/confirmButton"
+        android:textColor="@color/white"
+        android:textSize="14sp"
+        android:layout_gravity="center_vertical|center"
+        android:layout_margin="5dp" />
+        <Button
+            android:layout_weight="0.84"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cancel"
+            android:id="@+id/cancelButton"
+            android:textColor="@color/white"
+            android:textSize="14sp"
+            android:layout_gravity="center_vertical|center"
+            android:layout_margin="5dp" />
+
+    </LinearLayout>
+
+</LinearLayout><!-- From: file:/C:/yocleapp/app/src/main/res/layout/edittextactivity.xml -->
