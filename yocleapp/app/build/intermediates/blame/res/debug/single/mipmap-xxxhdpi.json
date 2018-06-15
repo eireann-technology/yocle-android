@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_one.png",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_one.png"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_one.png",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_one.png"
+    }
+]

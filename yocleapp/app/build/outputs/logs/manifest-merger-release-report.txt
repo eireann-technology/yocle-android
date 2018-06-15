@@ -1,0 +1,369 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:2:1-173:12
+	package
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:4:5-31
+		INJECTED from C:\yocleapp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\yocleapp\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:6:5-33
+		INJECTED from C:\yocleapp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\yocleapp\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:5:5-31
+		INJECTED from C:\yocleapp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\yocleapp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:24.2.0] C:\Users\pong2\.android\build-cache\f111b3da10ebad14e9d66b6049a76b5ab2b53487\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.0] C:\Users\pong2\.android\build-cache\7fe4796ca05f4000df657236bc88c5d9d588093e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\pong2\.android\build-cache\bcb272b4d77282d3f8b63243fd2c813e30c12773\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.google.android.gms:play-services:7.5.0] C:\Users\pong2\.android\build-cache\f1cdab9c3c2cf878c06d10e93c0db14b71d21d01\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\pong2\.android\build-cache\839ad3348fd2f247cbed153fa017ac7c2af63564\output\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] C:\Users\pong2\.android\build-cache\183c066a296aec7d93e978887e072c84e382c412\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:7.5.0] C:\Users\pong2\.android\build-cache\0cbf932d22d3c40dd199142c0873534d5825109e\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] C:\Users\pong2\.android\build-cache\de13986c4acd5e4399a0b3f4c9503e228bc1197d\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:7.5.0] C:\Users\pong2\.android\build-cache\d56b4b90382954666e51980d20bcb8894a140d42\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:7.5.0] C:\Users\pong2\.android\build-cache\25cbc699d4ff6430ba39cdddd595147efe828fc0\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:22.0.0] C:\Users\pong2\.android\build-cache\1baf616b244c10f158a9a58f55b5a92a63239b9a\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\pong2\.android\build-cache\d3ede1b623dc5809602eea7da367ffe622f9c18c\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\pong2\.android\build-cache\e85e43cb36c0e0381e9d876638c4abf3da14db36\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\pong2\.android\build-cache\fa52b8a47cfa9af6c8e7117d24496bfd66b733cb\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-fitness:7.5.0] C:\Users\pong2\.android\build-cache\704292f31672c4a26849b9173741eb14058b687e\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:7.5.0] C:\Users\pong2\.android\build-cache\2010c3d374545bc1001f2653744b85c80746910c\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:7.5.0] C:\Users\pong2\.android\build-cache\dfc2cc0e34e70829d0f79bd209e563622ad3ca6a\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:7.5.0] C:\Users\pong2\.android\build-cache\3b4002fb40230a5189a79742a904efdc3d802dde\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:7.5.0] C:\Users\pong2\.android\build-cache\7a072f9b66e074a27bfa0a2ef4bb50d9653f3277\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:7.5.0] C:\Users\pong2\.android\build-cache\db84c6267f4c5d0f29f37e6f4a1b60876bd11ddc\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:7.5.0] C:\Users\pong2\.android\build-cache\c5c4cc8afb665378618c0110bb5e71e0ee954fdf\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:7.5.0] C:\Users\pong2\.android\build-cache\0d27a98809c703f95ebbd88f0ca0478e6e359a65\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:7.5.0] C:\Users\pong2\.android\build-cache\d586271771ed049021507ec22b5ff0678da34c3b\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\pong2\.android\build-cache\5e67ac7b196e4ca4ec149a663cf901271c862ce7\output\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:7.5.0] C:\Users\pong2\.android\build-cache\76a383bbc034caf81d6a751ffcabe713ef56a1d5\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\pong2\.android\build-cache\1b534324d286e9e20cf17041329c534b2041aed4\output\AndroidManifest.xml:28:5-42
+MERGED from [com.google.android.gms:play-services-wearable:7.5.0] C:\Users\pong2\.android\build-cache\83ccf8b3437f794e94cb0346c7cb1726498f20f9\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\pong2\.android\build-cache\2a8e6f95d74f7981b444fecd90ccce275b73bc8b\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\pong2\.android\build-cache\53c9a52f2ecbcf43f915b29eadfafa25ba3595f4\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\pong2\.android\build-cache\4e93e1297f6c7ea3f91073cadea1a3a04fe9b44a\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\pong2\.android\build-cache\0484e1f3f960096aa2bb420e953cae3cb8732a86\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\pong2\.android\build-cache\4b44ab8c2f4704dd728d6eba44ca4c300bff2149\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\pong2\.android\build-cache\86c323782817173405a255af582687bc9b164963\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\pong2\.android\build-cache\f5c19ddb16b3822f13f4add3e3410205fdabd1f7\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\pong2\.android\build-cache\bcb272b4d77282d3f8b63243fd2c813e30c12773\output\AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:10:9-38
+		INJECTED from C:\yocleapp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\yocleapp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:9:9-35
+		INJECTED from C:\yocleapp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\yocleapp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\pong2\.android\build-cache\839ad3348fd2f247cbed153fa017ac7c2af63564\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] C:\Users\pong2\.android\build-cache\183c066a296aec7d93e978887e072c84e382c412\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] C:\Users\pong2\.android\build-cache\de13986c4acd5e4399a0b3f4c9503e228bc1197d\output\AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\pong2\.android\build-cache\5e67ac7b196e4ca4ec149a663cf901271c862ce7\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\pong2\.android\build-cache\1b534324d286e9e20cf17041329c534b2041aed4\output\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:13:5-71
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\pong2\.android\build-cache\5e67ac7b196e4ca4ec149a663cf901271c862ce7\output\AndroidManifest.xml:21:5-70
+	android:name
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:13:22-68
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:14:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:16:5-81
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\pong2\.android\build-cache\1b534324d286e9e20cf17041329c534b2041aed4\output\AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:16:22-78
+uses-permission#com.android.vending.BILLING
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:17:22-64
+uses-permission#android.permission.GET_TASKS
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:18:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:19:5-75
+	android:name
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:19:22-72
+uses-permission#com.invest.yocle.permission.C2D_MESSAGE
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:25:22-76
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:26:22-79
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\pong2\.android\build-cache\839ad3348fd2f247cbed153fa017ac7c2af63564\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] C:\Users\pong2\.android\build-cache\183c066a296aec7d93e978887e072c84e382c412\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-nearby:7.5.0] C:\Users\pong2\.android\build-cache\db84c6267f4c5d0f29f37e6f4a1b60876bd11ddc\output\AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\pong2\.android\build-cache\1b534324d286e9e20cf17041329c534b2041aed4\output\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:27:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:28:5-66
+	android:name
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:28:22-63
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:29:5-78
+	android:name
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:29:22-75
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:31:5-33:38
+	android:maxSdkVersion
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:33:9-35
+	android:name
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:32:9-64
+application
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:35:5-171:19
+MERGED from [com.android.support:design:24.2.0] C:\Users\pong2\.android\build-cache\f111b3da10ebad14e9d66b6049a76b5ab2b53487\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\pong2\.android\build-cache\bcb272b4d77282d3f8b63243fd2c813e30c12773\output\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services:7.5.0] C:\Users\pong2\.android\build-cache\f1cdab9c3c2cf878c06d10e93c0db14b71d21d01\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\pong2\.android\build-cache\839ad3348fd2f247cbed153fa017ac7c2af63564\output\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] C:\Users\pong2\.android\build-cache\183c066a296aec7d93e978887e072c84e382c412\output\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:7.5.0] C:\Users\pong2\.android\build-cache\0cbf932d22d3c40dd199142c0873534d5825109e\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] C:\Users\pong2\.android\build-cache\de13986c4acd5e4399a0b3f4c9503e228bc1197d\output\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-appstate:7.5.0] C:\Users\pong2\.android\build-cache\d56b4b90382954666e51980d20bcb8894a140d42\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:7.5.0] C:\Users\pong2\.android\build-cache\25cbc699d4ff6430ba39cdddd595147efe828fc0\output\AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:22.0.0] C:\Users\pong2\.android\build-cache\1baf616b244c10f158a9a58f55b5a92a63239b9a\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\pong2\.android\build-cache\d3ede1b623dc5809602eea7da367ffe622f9c18c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\pong2\.android\build-cache\e85e43cb36c0e0381e9d876638c4abf3da14db36\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\pong2\.android\build-cache\fa52b8a47cfa9af6c8e7117d24496bfd66b733cb\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-fitness:7.5.0] C:\Users\pong2\.android\build-cache\704292f31672c4a26849b9173741eb14058b687e\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:7.5.0] C:\Users\pong2\.android\build-cache\2010c3d374545bc1001f2653744b85c80746910c\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:7.5.0] C:\Users\pong2\.android\build-cache\dfc2cc0e34e70829d0f79bd209e563622ad3ca6a\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:7.5.0] C:\Users\pong2\.android\build-cache\3b4002fb40230a5189a79742a904efdc3d802dde\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:7.5.0] C:\Users\pong2\.android\build-cache\7a072f9b66e074a27bfa0a2ef4bb50d9653f3277\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-nearby:7.5.0] C:\Users\pong2\.android\build-cache\db84c6267f4c5d0f29f37e6f4a1b60876bd11ddc\output\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-panorama:7.5.0] C:\Users\pong2\.android\build-cache\c5c4cc8afb665378618c0110bb5e71e0ee954fdf\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:7.5.0] C:\Users\pong2\.android\build-cache\0d27a98809c703f95ebbd88f0ca0478e6e359a65\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:7.5.0] C:\Users\pong2\.android\build-cache\d586271771ed049021507ec22b5ff0678da34c3b\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\pong2\.android\build-cache\5e67ac7b196e4ca4ec149a663cf901271c862ce7\output\AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-identity:7.5.0] C:\Users\pong2\.android\build-cache\76a383bbc034caf81d6a751ffcabe713ef56a1d5\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\pong2\.android\build-cache\1b534324d286e9e20cf17041329c534b2041aed4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-wearable:7.5.0] C:\Users\pong2\.android\build-cache\83ccf8b3437f794e94cb0346c7cb1726498f20f9\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\pong2\.android\build-cache\2a8e6f95d74f7981b444fecd90ccce275b73bc8b\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\pong2\.android\build-cache\53c9a52f2ecbcf43f915b29eadfafa25ba3595f4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\pong2\.android\build-cache\4e93e1297f6c7ea3f91073cadea1a3a04fe9b44a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\pong2\.android\build-cache\0484e1f3f960096aa2bb420e953cae3cb8732a86\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\pong2\.android\build-cache\4b44ab8c2f4704dd728d6eba44ca4c300bff2149\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\pong2\.android\build-cache\86c323782817173405a255af582687bc9b164963\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\pong2\.android\build-cache\f5c19ddb16b3822f13f4add3e3410205fdabd1f7\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:38:9-41
+	android:allowBackup
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:36:9-35
+	android:icon
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:37:9-43
+	android:theme
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:39:9-40
+meta-data#com.google.android.gms.version
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:40:9-42:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\pong2\.android\build-cache\2a8e6f95d74f7981b444fecd90ccce275b73bc8b\output\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:42:13-66
+	android:name
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:41:13-58
+activity#com.invest.yocle.SplashActivity
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:44:9-52:20
+	android:theme
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:46:13-47
+	android:name
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:45:13-59
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:47:13-51:29
+action#android.intent.action.MAIN
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:48:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:50:17-77
+	android:name
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:50:27-74
+activity#com.invest.yocle.MainActivity
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:54:9-64:20
+	android:label
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:58:13-45
+	android:launchMode
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:55:13-43
+	android:configChanges
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:57:13-59
+	android:name
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:56:13-57
+intent-filter#android.intent.action.MAIN
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:59:13-63:29
+activity#com.invest.yocle.WebViewActivity
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:65:9-69:20
+	android:label
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:68:13-45
+	android:configChanges
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:67:13-59
+	android:name
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:66:13-60
+receiver#com.invest.yocle.GcmBroadcastReceiver
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:71:9-81:20
+	android:permission
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:73:13-73
+	android:name
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:72:13-65
+intent-filter#android.intent.action.BOOT_COMPLETED+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION+com.invest.yocle
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:74:13-80:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:75:17-81
+	android:name
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:75:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:76:17-86
+	android:name
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:76:25-83
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:77:17-79
+	android:name
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:77:25-76
+category#com.invest.yocle
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:79:17-61
+	android:name
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:79:27-58
+service#com.invest.yocle.GCMNotificationIntentService
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:83:9-81
+	android:name
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:83:18-78
+activity#com.invest.yocle.YouTubeActivity
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:99:9-108:20
+	android:label
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:101:13-43
+	android:name
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:100:13-60
+meta-data#minVersion
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:102:13-104:37
+	android:value
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:104:17-34
+	android:name
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:103:17-42
+meta-data#isLaunchableActivity
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:105:13-107:40
+	android:value
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:107:17-37
+	android:name
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:106:17-52
+activity#com.invest.yocle.EditTextActivity
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:109:9-113:20
+	android:label
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:112:13-45
+	android:configChanges
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:111:13-59
+	android:name
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:110:13-61
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:115:9-107
+	android:value
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:115:66-105
+	android:name
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:115:20-65
+service#com.invest.yocle.OverlayButtonService
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:117:9-119:40
+	android:exported
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:119:13-37
+	android:name
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:118:13-65
+service#com.invest.yocle.GetAppVersionService
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:120:9-122:40
+	android:exported
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:122:13-37
+	android:name
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:121:13-65
+activity#com.invest.yocle.MyVideoPlayer
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:124:9-128:20
+	android:label
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:127:13-67
+	android:configChanges
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:126:13-59
+	android:name
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:125:13-58
+activity#com.invest.yocle.SwipeActivity
+ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:129:9-138:20
+	android:label
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:132:13-45
+	android:configChanges
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:131:13-59
+	android:name
+		ADDED from C:\yocleapp\app\src\main\AndroidManifest.xml:130:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:25.3.1] C:\Users\pong2\.android\build-cache\bcb272b4d77282d3f8b63243fd2c813e30c12773\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\pong2\.android\build-cache\d3ede1b623dc5809602eea7da367ffe622f9c18c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\pong2\.android\build-cache\e85e43cb36c0e0381e9d876638c4abf3da14db36\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\pong2\.android\build-cache\fa52b8a47cfa9af6c8e7117d24496bfd66b733cb\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\pong2\.android\build-cache\53c9a52f2ecbcf43f915b29eadfafa25ba3595f4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\pong2\.android\build-cache\4e93e1297f6c7ea3f91073cadea1a3a04fe9b44a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\pong2\.android\build-cache\0484e1f3f960096aa2bb420e953cae3cb8732a86\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\pong2\.android\build-cache\4b44ab8c2f4704dd728d6eba44ca4c300bff2149\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\pong2\.android\build-cache\86c323782817173405a255af582687bc9b164963\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\pong2\.android\build-cache\f5c19ddb16b3822f13f4add3e3410205fdabd1f7\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\pong2\.android\build-cache\bcb272b4d77282d3f8b63243fd2c813e30c12773\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\pong2\.android\build-cache\bcb272b4d77282d3f8b63243fd2c813e30c12773\output\AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\pong2\.android\build-cache\839ad3348fd2f247cbed153fa017ac7c2af63564\output\AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\pong2\.android\build-cache\839ad3348fd2f247cbed153fa017ac7c2af63564\output\AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\pong2\.android\build-cache\839ad3348fd2f247cbed153fa017ac7c2af63564\output\AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\pong2\.android\build-cache\839ad3348fd2f247cbed153fa017ac7c2af63564\output\AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\pong2\.android\build-cache\839ad3348fd2f247cbed153fa017ac7c2af63564\output\AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\pong2\.android\build-cache\839ad3348fd2f247cbed153fa017ac7c2af63564\output\AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\pong2\.android\build-cache\839ad3348fd2f247cbed153fa017ac7c2af63564\output\AndroidManifest.xml:30:19-91
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\pong2\.android\build-cache\5e67ac7b196e4ca4ec149a663cf901271c862ce7\output\AndroidManifest.xml:22:5-73
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\pong2\.android\build-cache\5e67ac7b196e4ca4ec149a663cf901271c862ce7\output\AndroidManifest.xml:22:22-71
+meta-data#com.google.android.gms.wallet.api.enabled
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\pong2\.android\build-cache\5e67ac7b196e4ca4ec149a663cf901271c862ce7\output\AndroidManifest.xml:25:9-27:36
+	android:value
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\pong2\.android\build-cache\5e67ac7b196e4ca4ec149a663cf901271c862ce7\output\AndroidManifest.xml:27:13-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\pong2\.android\build-cache\5e67ac7b196e4ca4ec149a663cf901271c862ce7\output\AndroidManifest.xml:26:13-69
+receiver#com.google.android.gms.wallet.EnableWalletOptimizationReceiver
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\pong2\.android\build-cache\5e67ac7b196e4ca4ec149a663cf901271c862ce7\output\AndroidManifest.xml:28:9-34:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\pong2\.android\build-cache\5e67ac7b196e4ca4ec149a663cf901271c862ce7\output\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\pong2\.android\build-cache\5e67ac7b196e4ca4ec149a663cf901271c862ce7\output\AndroidManifest.xml:29:13-90
+intent-filter#com.google.android.gms.wallet.ENABLE_WALLET_OPTIMIZATION
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\pong2\.android\build-cache\5e67ac7b196e4ca4ec149a663cf901271c862ce7\output\AndroidManifest.xml:31:13-33:29
+action#com.google.android.gms.wallet.ENABLE_WALLET_OPTIMIZATION
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\pong2\.android\build-cache\5e67ac7b196e4ca4ec149a663cf901271c862ce7\output\AndroidManifest.xml:32:17-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\pong2\.android\build-cache\5e67ac7b196e4ca4ec149a663cf901271c862ce7\output\AndroidManifest.xml:32:25-96
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\pong2\.android\build-cache\1b534324d286e9e20cf17041329c534b2041aed4\output\AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\pong2\.android\build-cache\1b534324d286e9e20cf17041329c534b2041aed4\output\AndroidManifest.xml:23:22-78
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\pong2\.android\build-cache\1b534324d286e9e20cf17041329c534b2041aed4\output\AndroidManifest.xml:24:5-26:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\pong2\.android\build-cache\1b534324d286e9e20cf17041329c534b2041aed4\output\AndroidManifest.xml:25:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\pong2\.android\build-cache\1b534324d286e9e20cf17041329c534b2041aed4\output\AndroidManifest.xml:26:8-31

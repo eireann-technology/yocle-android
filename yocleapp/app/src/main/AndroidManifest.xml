@@ -2,12 +2,12 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="com.invest.yocle"
-    android:versionCode="1000"
-    android:versionName="1.0.00">
+    android:versionCode="1004"
+    android:versionName="1.0.04">
 
     <uses-sdk
         android:minSdkVersion="15"
-        android:targetSdkVersion="22" />
+        android:targetSdkVersion="25" />
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.GET_ACCOUNTS" />
@@ -30,7 +30,7 @@
 
     <android:uses-permission
         android:name="android.permission.READ_EXTERNAL_STORAGE"
-        android:maxSdkVersion="23" />
+        android:maxSdkVersion="25" />
 
     <application
         android:allowBackup="true"
@@ -50,6 +50,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
         <activity
             android:launchMode="singleTop"
             android:name="com.invest.yocle.MainActivity"
@@ -58,7 +59,7 @@
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
-                <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            <!--    <category android:name="android.intent.category.LAUNCHER" /> -->
             </intent-filter>
         </activity>
         <activity
@@ -152,16 +153,21 @@
 
         </activity>
 -->
+
+
+
+<!--
         <activity android:name="com.facebook.FacebookActivity" tools:replace="android:theme"
             android:configChanges=
                 "keyboard|keyboardHidden|screenLayout|screenSize|orientation"
             android:theme="@android:style/Theme.Translucent.NoTitleBar"
             android:label="@string/app_name" />
 
+
         <provider android:authorities="com.facebook.app.FacebookContentProvider123123"
             android:name="com.facebook.FacebookContentProvider"
             android:exported="true" />
-
+-->
     </application>
 
 </manifest>

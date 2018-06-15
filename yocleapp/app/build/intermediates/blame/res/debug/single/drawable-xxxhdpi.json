@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\icn_close.png",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\drawable-xxxhdpi\\icn_close.png"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\icn_1.png",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\drawable-xxxhdpi\\icn_1.png"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\btn_add.png",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\drawable-xxxhdpi\\btn_add.png"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\icn_4.png",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\drawable-xxxhdpi\\icn_4.png"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_launcher.png",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\icn_close.png",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\drawable-xxxhdpi\\icn_close.png"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\btn_back.png",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\drawable-xxxhdpi\\btn_back.png"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\photo.png",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\drawable-xxxhdpi\\photo.png"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\icn_3.png",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\drawable-xxxhdpi\\icn_3.png"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\photo.png",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\drawable-xxxhdpi\\photo.png"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\btn_back.png",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\drawable-xxxhdpi\\btn_back.png"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\btn_add.png",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\drawable-xxxhdpi\\btn_add.png"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\icn_5.png",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\drawable-xxxhdpi\\icn_5.png"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\icn_2.png",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\drawable-xxxhdpi\\icn_2.png"
+    }
+]

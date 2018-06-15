@@ -12,6 +12,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
+import android.Manifest;
 import android.app.ActivityManager;
 import android.app.AlertDialog;
 import android.app.DownloadManager;
@@ -38,7 +39,9 @@ import android.graphics.drawable.Drawable;
 import android.net.http.HttpResponseCache;
 import android.os.Build;
 import android.os.Bundle;
+import android.support.v4.app.ActivityCompat;
 import android.support.v4.app.FragmentManager;
+import android.support.v4.content.ContextCompat;
 import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentActivity;
@@ -67,6 +70,7 @@ import android.view.ViewTreeObserver;
 import android.view.Window;
 import android.webkit.CookieManager;
 import android.webkit.CookieSyncManager;
+import android.webkit.ValueCallback;
 import android.webkit.WebBackForwardList;
 import android.webkit.WebView;
 import android.widget.AdapterView;
@@ -132,11 +136,11 @@ public class MainActivity extends ActionBarActivity implements OnMenuItemClickLi
 	MainActivity mainactivity = null;
 	String TAG = "ADIAPONG";
 
-    String[] menutitles = {"123","123","123","123","123","123"};
+    String[] menutitles = {"123","123","123","123","123","123","123"};
 //    String[] menutitles = {getResources().getString(R.string.m_home), getResources().getString(R.string.m_editprofile), getResources().getString(R.string.m_previewprofile), getResources().getString(R.string.m_printprofile),
         //getResources().getString(R.string.m_network), getResources().getString(R.string.m_createactivity), getResources().getString(R.string.m_searchactivity), getResources().getString(R.string.m_schedule), getResources().getString(R.string.m_postproject), getResources().getString(R.string.m_gsleaguetable)};
     TypedArray menuIcons;
-    String[] pageUrl = {"anchortest.php", "dev/login.php", "dev/login.php", "dev/login.php", "dev/login.php", "dev/login.php"};
+    String[] pageUrl = {"anchortest.php", "dev/login.php", "dev/login.php", "dev/login.php", "dev/login.php", "dev/login.php", "dev/login.php"};
     String[] anchors = {"","","","","","","","","","","","","","","","","",""};
 
  // nav drawer title
@@ -209,6 +213,8 @@ public class MainActivity extends ActionBarActivity implements OnMenuItemClickLi
     public String jsonStr = "{\"menuitems\":[]}";
 
     private ViewTreeObserver.OnScrollChangedListener mOnScrollChangedListener;
+
+    final int MY_PERMISSIONS_REQUEST_STORE = 1;
 
 
     protected static void showProgress(String message) {
@@ -321,6 +327,9 @@ public class MainActivity extends ActionBarActivity implements OnMenuItemClickLi
     @Override
     public void onCreate(Bundle savedInstanceState) {
 
+  //      String c = "email=alantypoon@gmail.com; pwd=1234; reset_pwd=; remember=0; login=1;";
+  //      storeCookie(this, c);
+
         try {
 
   //          String ctext = AesEncryptionUtil.encrypt("123 abc 123", "1234567890abcdef");
@@ -351,6 +360,7 @@ public class MainActivity extends ActionBarActivity implements OnMenuItemClickLi
         menutitles[3] = getResources().getString(R.string.m_schedule);
         menutitles[4] = getResources().getString(R.string.m_messenger);
         menutitles[5] = getResources().getString(R.string.m_whatisup);
+        menutitles[6] = getResources().getString(R.string.m_peers);
 
         Log.i(TAG, "MainActivity onCreate()");
 
@@ -660,7 +670,7 @@ public class MainActivity extends ActionBarActivity implements OnMenuItemClickLi
         });
 
 */
-        restoreUserInfo();
+        //restoreUserInfo();
 
     }
 
@@ -1569,16 +1579,6 @@ public class MainActivity extends ActionBarActivity implements OnMenuItemClickLi
         editor.commit();
     }
 
-    public void storeCookie(Context context, String cookie) {
-        final SharedPreferences prefs = getSharedPreferences(
-                MainActivity.class.getSimpleName(), Context.MODE_PRIVATE);
-        int appVersion = getAppVersion(context);
-        Log.i(TAG, "Saving regId on app version " + appVersion);
-        SharedPreferences.Editor editor = prefs.edit();
-        editor.putString(USER_COOKIE, cookie);
-        editor.commit();
-    }
-
     public void storeLike() {
         final SharedPreferences prefs = getSharedPreferences(
                 MainActivity.class.getSimpleName(), Context.MODE_PRIVATE);
@@ -1638,6 +1638,120 @@ public class MainActivity extends ActionBarActivity implements OnMenuItemClickLi
         else return true;
     }
 
+    String m_cookie = "";
+    public void storeCookie(Context context, String cookie) {
+//        m_cookie = cookie+"; login=1";
+        m_cookie = cookie;
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
+            if (ContextCompat.checkSelfPermission(this,
+                    Manifest.permission.WRITE_EXTERNAL_STORAGE)
+                    != PackageManager.PERMISSION_GRANTED) {
+
+                // Should we show an explanation?
+                if (ActivityCompat.shouldShowRequestPermissionRationale(this,
+                        Manifest.permission.WRITE_EXTERNAL_STORAGE)) {
+
+                    // Show an explanation to the user *asynchronously* -- don't block
+                    // this thread waiting for the user's response! After the user
+                    // sees the explanation, try again to request the permission.
+                    ActivityCompat.requestPermissions(this,
+                            new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE},
+                            MY_PERMISSIONS_REQUEST_STORE);
+
+                } else {
+
+                    // No explanation needed, we can request the permission.
+
+                    ActivityCompat.requestPermissions(this,
+                            new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE},
+                            MY_PERMISSIONS_REQUEST_STORE);
+
+                    // MY_PERMISSIONS_REQUEST_READ_CONTACTS is an
+                    // app-defined int constant. The callback method gets the
+                    // result of the request.
+                }
+            } else {
+                final SharedPreferences prefs = getSharedPreferences(
+                        MainActivity.class.getSimpleName(), Context.MODE_PRIVATE);
+                //    int appVersion = getAppVersion(context);
+                //   Log.i(TAG, "Saving regId on app version " + appVersion);
+                SharedPreferences.Editor editor = prefs.edit();
+                editor.putString(USER_COOKIE, cookie);
+                editor.commit();
+            }
+        }
+        else {
+            final SharedPreferences prefs = getSharedPreferences(
+                    MainActivity.class.getSimpleName(), Context.MODE_PRIVATE);
+            //    int appVersion = getAppVersion(context);
+            //   Log.i(TAG, "Saving regId on app version " + appVersion);
+            SharedPreferences.Editor editor = prefs.edit();
+            editor.putString(USER_COOKIE, cookie);
+            editor.commit();
+        }
+    }
+
+    public boolean restoreLogonSession(CookieManager cookieManager) {
+        final SharedPreferences prefs = getSharedPreferences(
+                MainActivity.class.getSimpleName(), Context.MODE_PRIVATE);
+
+        String cookie = prefs.getString(USER_COOKIE, "");
+        cookie = cookie.replaceAll("; ", ";");
+
+/*
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
+            cookieManager.removeAllCookies(new ValueCallback<Boolean>() {
+                // a callback which is executed when the cookies have been removed
+                @Override
+                public void onReceiveValue(Boolean aBoolean) {
+                    Log.d(TAG, "Cookie removed: " + aBoolean);
+                }
+            });
+        }
+        else cookieManager.removeAllCookie();
+*/
+//        cookie = "email=alantypoon@gmail.com; pwd=1234; reset_pwd=; remember=0; login=1;";
+        String[] p = cookie.split(";");
+        for(int i=0; i<p.length; i++)
+            if(p[i] != "") cookieManager.setCookie(Config.HTTPS_SERVER_ROOT, p[i]);
+
+        return true;
+    }
+
+
+    @Override
+    public void onRequestPermissionsResult(int requestCode,
+                                           String permissions[], int[] grantResults) {
+        switch (requestCode) {
+            case MY_PERMISSIONS_REQUEST_STORE: {
+                // If request is cancelled, the result arrays are empty.
+                if (grantResults.length > 0
+                        && grantResults[0] == PackageManager.PERMISSION_GRANTED) {
+
+                    // permission was granted, yay! Do the
+                    // contacts-related task you need to do.
+                    final SharedPreferences prefs = getSharedPreferences(
+                            MainActivity.class.getSimpleName(), Context.MODE_PRIVATE);
+                    //    int appVersion = getAppVersion(context);
+                    //   Log.i(TAG, "Saving regId on app version " + appVersion);
+                    SharedPreferences.Editor editor = prefs.edit();
+                    editor.putString(USER_COOKIE, m_cookie);
+                    editor.commit();
+
+                } else {
+
+                    // permission denied, boo! Disable the
+                    // functionality that depends on this permission.
+                }
+                return;
+            }
+
+            // other 'case' lines to check for other
+            // permissions this app might request
+        }
+    }
+
+
     public boolean restoreUserInfo() {
         final SharedPreferences prefs = getSharedPreferences(
                 MainActivity.class.getSimpleName(), Context.MODE_PRIVATE);
@@ -1669,8 +1783,8 @@ public class MainActivity extends ActionBarActivity implements OnMenuItemClickLi
 
     public void addLogoutItem() {
         if(rowItems.size()>menutitles.length) return;
-        RowItem items = new RowItem(getResources().getString(R.string.logout), menuIcons.getResourceId(
-                4, -1), "logout", "0");
+        int i=7;
+        RowItem items = new RowItem(getResources().getString(R.string.logout), menuIcons.getResourceId(i, -1), "logout", "0");
 
 //                changeProfile(2, "");
         rowItems.add(items);

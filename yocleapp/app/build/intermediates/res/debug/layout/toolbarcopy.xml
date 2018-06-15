@@ -20,4 +20,4 @@
     android:layout_height="@dimen/abc_action_bar_default_height_material"
     android:background="?attr/colorPrimary"
     android:minHeight="?attr/actionBarSize"
-   /><!-- From: file:/D:/github_workspace/yocle-android/yocleapp/app/src/main/res/layout/toolbarcopy.xml -->
+   /><!-- From: file:/D:/github_repo/yocle-android/yocleapp/app/src/main/res/layout/toolbarcopy.xml -->

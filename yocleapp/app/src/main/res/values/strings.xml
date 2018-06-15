@@ -25,6 +25,7 @@
     <string name="m_gsleaguetable">GS League Table</string>
     <string name="m_messenger">Messenger</string>
     <string name="m_whatisup">Whats up</string>
+    <string name="m_peers">Peers</string>
     <string name="memberstatus">Account status</string>
     <string name="memberarea">YOCLE</string>
     <string name="signup">Sign up</string>
@@ -47,9 +48,9 @@
         <item>@drawable/ic_user</item>
         <item>@drawable/ic_checkered_flag</item>
         <item>@drawable/ic_calendar</item>
-        <item>@drawable/ic_power</item>
-        <item>@drawable/ic_power</item>
-        <item>@drawable/ic_power</item>
+        <item>@drawable/ic_messenger</item>
+        <item>@drawable/ic_whatsup</item>
+        <item>@drawable/ic_peers</item>
         <item>@drawable/ic_power</item>
         <item>@drawable/ic_studentcomment</item>
         <item>@drawable/ic_contactus</item>

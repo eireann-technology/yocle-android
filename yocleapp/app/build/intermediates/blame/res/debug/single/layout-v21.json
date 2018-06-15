@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

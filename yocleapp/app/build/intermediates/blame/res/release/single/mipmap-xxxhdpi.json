@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi\\ic_one.png",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_one.png"
+    }
+]

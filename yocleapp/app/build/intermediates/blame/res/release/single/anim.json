@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\f111b3da10ebad14e9d66b6049a76b5ab2b53487\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\f111b3da10ebad14e9d66b6049a76b5ab2b53487\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\f111b3da10ebad14e9d66b6049a76b5ab2b53487\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\f111b3da10ebad14e9d66b6049a76b5ab2b53487\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\f111b3da10ebad14e9d66b6049a76b5ab2b53487\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\f111b3da10ebad14e9d66b6049a76b5ab2b53487\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\anim\\abc_fade_out.xml"
+    }
+]

@@ -1,0 +1,714 @@
+[
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_menu.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\layout\\fragment_menu.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\twobuttonscustomdialog.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\layout\\twobuttonscustomdialog.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_page.xml",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\layout\\fragment_page.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listviewrow.xml",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\layout\\listviewrow.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbarcopy.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\layout\\toolbarcopy.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar.xml",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\603a1ec2d72bbbe3861b78ee0739a2e018bbcfab\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\f111b3da10ebad14e9d66b6049a76b5ab2b53487\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main2.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\buymembership.xml",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\layout\\buymembership.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\points_fragment.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\layout\\points_fragment.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_copy.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\layout\\activity_main_copy.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edittextactivity.xml",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\layout\\edittextactivity.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sn_main_fragment.xml",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\layout\\sn_main_fragment.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\social_profile.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\layout\\social_profile.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\twobuttonscustomdialog.xml",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\layout\\twobuttonscustomdialog.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_page.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\layout\\fragment_page.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listviewfragment.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\layout\\listviewfragment.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_menu.xml",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\layout\\fragment_menu.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\1baf616b244c10f158a9a58f55b5a92a63239b9a\\output\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\603a1ec2d72bbbe3861b78ee0739a2e018bbcfab\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\f111b3da10ebad14e9d66b6049a76b5ab2b53487\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\buymembership.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\layout\\buymembership.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listviewrow.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\layout\\listviewrow.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbarcopy.xml",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\layout\\toolbarcopy.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\myvideoview.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\layout\\myvideoview.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\603a1ec2d72bbbe3861b78ee0739a2e018bbcfab\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\overlaybutton.xml",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\layout\\overlaybutton.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\1261e0d8d43e2312d66b9261cb9a2727655808d3\\output\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\points_fragment.xml",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\layout\\points_fragment.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_searchhkex.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\layout\\activity_searchhkex.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\f111b3da10ebad14e9d66b6049a76b5ab2b53487\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\f111b3da10ebad14e9d66b6049a76b5ab2b53487\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sharecanceldialog.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\layout\\sharecanceldialog.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\1261e0d8d43e2312d66b9261cb9a2727655808d3\\output\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_swipe.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\layout\\activity_swipe.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sn_profile_fragment.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\layout\\sn_profile_fragment.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\webviewfragment.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\layout\\webviewfragment.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\f111b3da10ebad14e9d66b6049a76b5ab2b53487\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_swipe.xml",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\layout\\fragment_swipe.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_copy.xml",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\layout\\activity_main_copy.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\1baf616b244c10f158a9a58f55b5a92a63239b9a\\output\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listviewfragment.xml",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\layout\\listviewfragment.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\603a1ec2d72bbbe3861b78ee0739a2e018bbcfab\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main2.xml",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\social_login.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\layout\\social_login.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\1baf616b244c10f158a9a58f55b5a92a63239b9a\\output\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\webviewactivity.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\layout\\webviewactivity.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sn_activity_main.xml",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\layout\\sn_activity_main.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\buymemberreport.xml",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\layout\\buymemberreport.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\overlaybutton.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\layout\\overlaybutton.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\f111b3da10ebad14e9d66b6049a76b5ab2b53487\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\myvideoview.xml",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\layout\\myvideoview.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\603a1ec2d72bbbe3861b78ee0739a2e018bbcfab\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\603a1ec2d72bbbe3861b78ee0739a2e018bbcfab\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\603a1ec2d72bbbe3861b78ee0739a2e018bbcfab\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loadingmore.xml",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\layout\\loadingmore.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sharecanceldialog.xml",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\layout\\sharecanceldialog.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\f111b3da10ebad14e9d66b6049a76b5ab2b53487\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\friends_list_fragment.xml",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\layout\\friends_list_fragment.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\603a1ec2d72bbbe3861b78ee0739a2e018bbcfab\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\f111b3da10ebad14e9d66b6049a76b5ab2b53487\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loadingmore.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\layout\\loadingmore.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\f111b3da10ebad14e9d66b6049a76b5ab2b53487\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\friend_row.xml",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\layout\\friend_row.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\f111b3da10ebad14e9d66b6049a76b5ab2b53487\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\603a1ec2d72bbbe3861b78ee0739a2e018bbcfab\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\friends_list_fragment.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\layout\\friends_list_fragment.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\603a1ec2d72bbbe3861b78ee0739a2e018bbcfab\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_searchhkex.xml",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\layout\\activity_searchhkex.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sn_activity_main.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\layout\\sn_activity_main.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\603a1ec2d72bbbe3861b78ee0739a2e018bbcfab\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\1261e0d8d43e2312d66b9261cb9a2727655808d3\\output\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\f111b3da10ebad14e9d66b6049a76b5ab2b53487\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edittextactivity.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\layout\\edittextactivity.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\social_profile.xml",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\layout\\social_profile.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sn_profile_fragment.xml",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\layout\\sn_profile_fragment.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\f111b3da10ebad14e9d66b6049a76b5ab2b53487\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main.xml",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sn_main_fragment.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\layout\\sn_main_fragment.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\f111b3da10ebad14e9d66b6049a76b5ab2b53487\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header.xml",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\603a1ec2d72bbbe3861b78ee0739a2e018bbcfab\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_swipe.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\layout\\fragment_swipe.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\603a1ec2d72bbbe3861b78ee0739a2e018bbcfab\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\AlanPoon\\.android\\build-cache\\80a113877c4b1978d7373b1138dc3bcf0b645f0b\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\friend_row.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\layout\\friend_row.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\webviewactivity.xml",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\layout\\webviewactivity.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\webviewfragment.xml",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\layout\\webviewfragment.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\social_login.xml",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\layout\\social_login.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\pong2\\.android\\build-cache\\d3ede1b623dc5809602eea7da367ffe622f9c18c\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\github_repo\\yocle-android\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_swipe.xml",
+        "source": "D:\\github_repo\\yocle-android\\yocleapp\\app\\src\\main\\res\\layout\\activity_swipe.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\buymemberreport.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\layout\\buymemberreport.xml"
+    }
+]

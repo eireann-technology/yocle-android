@@ -45,6 +45,14 @@ public class WVFragment extends Fragment {
         Log.d("SwA", "WVF onCreateView");
         View v = inflater.inflate(R.layout.fragment_swipe, container, false);
         if (url != null) {
+            String myURL = "https://yocle.net";
+            android.webkit.CookieManager cookieManager = android.webkit.CookieManager.getInstance();
+            cookieManager.setAcceptCookie(true);
+            cookieManager.acceptCookie();
+            cookieManager.setAcceptFileSchemeCookies(true);
+            cookieManager.getInstance().setAcceptCookie(true);
+            cookieManager.getCookie(myURL);
+
             webView = (WebView) v.findViewById(R.id.webView);
 
             webView.setWebChromeClient(new WebChromeClient() {
@@ -77,13 +85,14 @@ public class WVFragment extends Fragment {
                 public void onPageFinished(WebView view, String url) {
                     super.onPageFinished(view, url);
                 }
-
+/*
                 @Override
                 public void onReceivedSslError(WebView view, SslErrorHandler handler, SslError error) {
   //                  super.onReceivedSslError(view, handler, error);
                     // this will ignore the Ssl error and will go forward to your site
                     handler.proceed();
                 }
+*/
             });
 
             webView.getSettings().setJavaScriptEnabled(true);

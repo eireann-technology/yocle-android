@@ -40,6 +40,7 @@ import android.view.KeyEvent;
 import android.view.MenuItem;
 import android.view.View;
 import android.webkit.ConsoleMessage;
+import android.webkit.CookieManager;
 import android.webkit.JavascriptInterface;
 import android.webkit.SslErrorHandler;
 import android.webkit.WebChromeClient;
@@ -52,6 +53,8 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 
 import org.json.JSONObject;
+
+import static com.invest.yocle.MainActivity.USER_COOKIE;
 
 
 public class WebViewActivity extends ActionBarActivity {
@@ -97,6 +100,19 @@ public class WebViewActivity extends ActionBarActivity {
 		setSupportActionBar(toolbar);
 		final ActionBar actionBar = getSupportActionBar();
 		actionBar.setDisplayHomeAsUpEnabled(true);
+
+		String myURL = "https://yocle.net";
+		android.webkit.CookieManager cookieManager = android.webkit.CookieManager.getInstance();
+		cookieManager.setAcceptCookie(true);
+		cookieManager.acceptCookie();
+		cookieManager.setAcceptFileSchemeCookies(true);
+		cookieManager.getInstance().setAcceptCookie(true);
+		cookieManager.getCookie(myURL);
+		restoreLogonSession(cookieManager);
+	//	String c = "email=alantypoon@gmail.com; pwd=1234; reset_pwd=; remember=0; login=1; io=RcC3WM3NZHbXdxjFAAqM";
+	//	cookieManager.setCookie(myURL, c);
+
+
 
 		webviewactivity = this;
 		webView = (WebView) findViewById(R.id.webview);
@@ -189,13 +205,14 @@ public class WebViewActivity extends ActionBarActivity {
 
 				webView.loadUrl("javascript:"+jsfunc);
 			}
-
+/*
 			@Override
 			public void onReceivedSslError(WebView view, SslErrorHandler handler, SslError error) {
 				super.onReceivedSslError(view, handler, error);
 				// this will ignore the Ssl error and will go forward to your site
 				handler.proceed();
 			}
+*/
 		});
 		
 		 webView.addJavascriptInterface(new WebViewJavaScriptInterface(this), "app");
@@ -476,5 +493,31 @@ public class WebViewActivity extends ActionBarActivity {
 		else return uid;
 	}
 
+	public boolean restoreLogonSession(CookieManager cookieManager) {
+		final SharedPreferences prefs = getSharedPreferences(
+				MainActivity.class.getSimpleName(), Context.MODE_PRIVATE);
+
+		String cookie = prefs.getString(USER_COOKIE, "");
+		cookie = cookie.replaceAll("; ", ";");
+
+/*
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
+            cookieManager.removeAllCookies(new ValueCallback<Boolean>() {
+                // a callback which is executed when the cookies have been removed
+                @Override
+                public void onReceiveValue(Boolean aBoolean) {
+                    Log.d(TAG, "Cookie removed: " + aBoolean);
+                }
+            });
+        }
+        else cookieManager.removeAllCookie();
+*/
+//        cookie = "email=alantypoon@gmail.com; pwd=1234; reset_pwd=; remember=0; login=1;";
+		String[] p = cookie.split(";");
+		for(int i=0; i<p.length; i++)
+			if(p[i] != "") cookieManager.setCookie(Config.HTTPS_SERVER_ROOT, p[i]);
+
+		return true;
+	}
 
 }

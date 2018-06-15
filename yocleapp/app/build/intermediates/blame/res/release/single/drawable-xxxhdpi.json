@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi\\btn_add.png",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\drawable-xxxhdpi\\btn_add.png"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi\\photo.png",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\drawable-xxxhdpi\\photo.png"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi\\icn_close.png",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\drawable-xxxhdpi\\icn_close.png"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi\\btn_back.png",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\drawable-xxxhdpi\\btn_back.png"
+    }
+]

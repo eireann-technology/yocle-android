@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/D:/github_workspace/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.12.0/res/values-pa/values-pa.xml -->
+    <!-- From: file:/D:/github_repo/yocle-android/yocleapp/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.12.0/res/values-pa/values-pa.xml -->
     <eat-comment/>
     <string name="com_facebook_device_auth_instructions">ਆਪਣੇ ਸਮਾਰਟਫ਼ੋਨ ਜਾਂ ਕੰਪਿਊਟਰ \'ਤੇ %@ ਵਿੱਚ ਜਾਓ ਅਤੇ ਇਸ ਕੋਡ ਨੂੰ ਦਾਖ਼ਲ ਕਰੋ:</string>
     <string name="com_facebook_image_download_unknown_error">ਕਿਸੇ ਤਸਵੀਰ ਨੂੰ ਡਾਉਨਲੋਡ ਕਰਨ ਵੇਲੇ ਅਗਿਆਤ ਤਰੁੱਟੀ ਹੋ ਗਈ।</string>

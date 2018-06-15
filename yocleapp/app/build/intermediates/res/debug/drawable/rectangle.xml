@@ -3,4 +3,4 @@
    <solid android:color="#5490CC"></solid>
    <corners android:radius="8px"></corners> 
    <stroke  android:width="2dp" android:color="#A4C2E0"></stroke>  
-</shape><!-- From: file:/D:/github_workspace/yocle-android/yocleapp/app/src/main/res/drawable/rectangle.xml -->
+</shape><!-- From: file:/D:/github_repo/yocle-android/yocleapp/app/src/main/res/drawable/rectangle.xml -->

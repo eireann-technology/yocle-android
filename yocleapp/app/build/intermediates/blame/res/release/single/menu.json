@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_my_video_plalyer.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\menu\\menu_my_video_plalyer.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_main.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\release\\menu\\searchhkex_menu.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\menu\\searchhkex_menu.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_swipe.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\menu\\menu_swipe.xml"
+    },
+    {
+        "merged": "C:\\yocleapp\\app\\build\\intermediates\\res\\merged\\release\\menu\\drawer_view.xml",
+        "source": "C:\\yocleapp\\app\\src\\main\\res\\menu\\drawer_view.xml"
+    }
+]

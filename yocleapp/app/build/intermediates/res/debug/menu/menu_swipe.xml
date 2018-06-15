@@ -5,4 +5,4 @@
     <item android:id="@+id/action_settings" android:title="@string/action_settings"
         android:orderInCategory="100" app:showAsAction="never" />
 </menu>
-<!-- From: file:/D:/github_workspace/yocle-android/yocleapp/app/src/main/res/menu/menu_swipe.xml -->
+<!-- From: file:/D:/github_repo/yocle-android/yocleapp/app/src/main/res/menu/menu_swipe.xml -->

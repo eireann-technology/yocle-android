@@ -33,14 +33,16 @@ import com.facebook.widget.LikeView;
 //import com.github.gorbin.asne.core.listener.OnLoginCompleteListener;
 //import com.github.gorbin.asne.core.listener.OnPostingCompleteListener;
 //import com.github.gorbin.asne.facebook.FacebookSocialNetwork;
-import com.facebook.CallbackManager;
-import com.facebook.FacebookCallback;
-import com.facebook.FacebookException;
-import com.facebook.share.Sharer;
-import com.facebook.share.model.ShareLinkContent;
-import com.facebook.share.widget.ShareDialog;
-import com.google.android.youtube.player.YouTubeInitializationResult;
-import com.google.android.youtube.player.YouTubeStandalonePlayer;
+
+
+//import com.facebook.CallbackManager;
+//import com.facebook.FacebookCallback;
+//import com.facebook.FacebookException;
+//import com.facebook.share.Sharer;
+//import com.facebook.share.model.ShareLinkContent;
+//import com.facebook.share.widget.ShareDialog;
+//import com.google.android.youtube.player.YouTubeInitializationResult;
+//import com.google.android.youtube.player.YouTubeStandalonePlayer;
 
 import android.annotation.SuppressLint;
 import android.annotation.TargetApi;
@@ -107,7 +109,7 @@ import com.invest.json.GenToken;
 import com.invest.json.LikeAction;
 import com.invest.json.ViewItemError;
 
-import com.facebook.FacebookSdk;
+//import com.facebook.FacebookSdk;
 
 import org.json.JSONObject;
 
@@ -194,8 +196,8 @@ import javax.net.ssl.X509TrustManager;
 	Map<String, String> mimes = null;
 	private int mPage;
 
-	CallbackManager callbackManager;
-	ShareDialog shareDialog;
+//	CallbackManager callbackManager;
+//	ShareDialog shareDialog;
 
 	SwipeRefreshLayout swipe;
 	private static final int INPUT_FILE_REQUEST_CODE = 1;
@@ -257,7 +259,7 @@ import javax.net.ssl.X509TrustManager;
 		}
 		webView.reload();
 	}
-
+/*
 	private FacebookCallback<Sharer.Result> shareCallback = new FacebookCallback<Sharer.Result>() {
 		@Override
 		public void onCancel() {
@@ -301,7 +303,7 @@ import javax.net.ssl.X509TrustManager;
 			Toast.makeText(getActivity(), alertMessage, Toast.LENGTH_LONG).show();
 		}
 	};
-
+*/
 
 	@Override
 	public void onDestroyView() {
@@ -342,13 +344,14 @@ import javax.net.ssl.X509TrustManager;
 		}
 		assetManager = getActivity().getAssets();
 		cache = new ACaching(this);
-
+/*
 		FacebookSdk.sdkInitialize(getActivity().getApplicationContext());
 		callbackManager = CallbackManager.Factory.create();
 		shareDialog = new ShareDialog(this);
 
 		// this part is optional
 		shareDialog.registerCallback(callbackManager, shareCallback);
+*/
 		//   setRetainInstance(true);
 	//	Thread.setDefaultUncaughtExceptionHandler(new ExceptionHandler());
 
@@ -921,6 +924,16 @@ import javax.net.ssl.X509TrustManager;
 
 	protected void initUI(Bundle savedInstanceState) {
 
+		android.webkit.CookieManager cookieManager = android.webkit.CookieManager.getInstance();
+		cookieManager.setAcceptCookie(true);
+		cookieManager.acceptCookie();
+		cookieManager.setAcceptFileSchemeCookies(true);
+		cookieManager.getInstance().setAcceptCookie(true);
+		String cc = cookieManager.getCookie(Config.HTTPS_SERVER_ROOT);
+        ((MainActivity) getActivity()).restoreLogonSession(cookieManager);
+		cc = cookieManager.getCookie(Config.HTTPS_SERVER_ROOT);
+
+
 		mimes = new HashMap<String, String>();
 		mimes.put("html", "text/html");
 		mimes.put("htm", "text/html");
@@ -1379,14 +1392,14 @@ import javax.net.ssl.X509TrustManager;
 					}
 					return null;
 				}
-
+/*
 				@Override
 				public void onReceivedSslError(WebView view, SslErrorHandler handler, SslError error) {
 					//	super.onReceivedSslError(view, handler, error);
 					// this will ignore the Ssl error and will go forward to your site
 					handler.proceed();
 				}
-
+*/
 				@Override
 				public boolean shouldOverrideUrlLoading(WebView view, String url) {
 					Log.i(TAG, "Page " + position + " shouldOverrideUrlLoading url=" + url);
@@ -1729,6 +1742,8 @@ import javax.net.ssl.X509TrustManager;
 
 	public void loadWebPage(Bundle savedInstanceState, String url) {
 		if (isNetworkStatusAvialable(context)) {
+//			HashMap<String, String> map = new HashMap<String, String>();
+//			map.put("Cookie", "email=alantypoon@gmail.com; pwd=1234; reset_pwd=; remember=0; login=1;");
 				webView.loadUrl(url);
 		} else {
 				String html = getReloadURL(url);
@@ -1739,7 +1754,9 @@ import javax.net.ssl.X509TrustManager;
 
 	public void loadWebPage() {
 		if (isNetworkStatusAvialable(context)) {
-				webView.loadUrl(g_url);
+			HashMap<String, String> map = new HashMap<String, String>();
+			map.put("cookie", "email=alantypoon@gmail.com; pwd=1234; reset_pwd=; remember=0; login=1;");
+				webView.loadUrl(g_url, map);
 		} else {
 				String html = getReloadURL(g_url);
 				webView.loadData(html, "text/html; charset=utf-8", "utf-8");
@@ -1760,6 +1777,7 @@ import javax.net.ssl.X509TrustManager;
 	}
 
 	public void playVideo(String video_id) {
+/*
 		Intent intent = null;
 		intent = YouTubeStandalonePlayer.createVideoIntent(
 				getActivity(), DeveloperKey.DEVELOPER_KEY, video_id, 0, true, false);
@@ -1773,6 +1791,7 @@ import javax.net.ssl.X509TrustManager;
 						.getErrorDialog(getActivity(), REQ_RESOLVE_SERVICE_MISSING).show();
 			}
 		}
+*/
 	}
 
 	public void playPrivateVideo(String path) {
@@ -1808,6 +1827,11 @@ import javax.net.ssl.X509TrustManager;
 		@JavascriptInterface
 		public void cmenu(final String jsonStr) {
 			((MainActivity) getActivity()).createCMenuFromJS(jsonStr);
+		}
+
+		@JavascriptInterface
+		public void storeLogonSession(final String cookie) {
+			((MainActivity) getActivity()).storeCookie(((MainActivity) getActivity()).context, cookie);
 		}
 
 		@JavascriptInterface
@@ -1978,7 +2002,7 @@ import javax.net.ssl.X509TrustManager;
 							}
 
 							final String link = link0;
-
+/*
 							if (ShareDialog.canShow(ShareLinkContent.class)) {
 									ShareLinkContent linkContent = new ShareLinkContent.Builder()
 											.setContentTitle(getResources().getString(R.string.adiai))
@@ -1989,6 +2013,7 @@ import javax.net.ssl.X509TrustManager;
 
 									shareDialog.show(linkContent);
 							}
+*/
 						}
 						else {
 							Intent intent = new Intent(getActivity(), EditTextActivity.class);
@@ -2284,7 +2309,7 @@ import javax.net.ssl.X509TrustManager;
 				final String link = link0;
 
 				if (socialnetwork.equals("1")) {
-
+/*
 					if (ShareDialog.canShow(ShareLinkContent.class)) {
 							ShareLinkContent linkContent = new ShareLinkContent.Builder()
 								.setContentTitle(getResources().getString(R.string.adiai))
@@ -2295,7 +2320,7 @@ import javax.net.ssl.X509TrustManager;
 
 						shareDialog.show(linkContent);
 					}
-
+*/
 /*
 					final String message = "測試鏈接 - " + textshare;
 					int networkId = FacebookSocialNetwork.ID;
@@ -2457,23 +2482,23 @@ import javax.net.ssl.X509TrustManager;
 
 
 				if (t == null) { // cancel by user
-					photoFile.delete();
+					if(photoFile!=null) photoFile.delete();
 					photoFile = null;
-					videoFile.delete();
+					if(videoFile!=null) videoFile.delete();
 					videoFile = null;
 				}
 				else if(t.indexOf("MP4_")>=0) {
-					photoFile.delete();
+					if(photoFile!=null) photoFile.delete();
 					photoFile = null;
 				}
 				else if(t.indexOf("JPEG_")>=0) {
-					videoFile.delete();
+					if(videoFile!=null) videoFile.delete();
 					videoFile = null;
 				}
 				else { // select photo/video
-					photoFile.delete();
+					if(photoFile!=null) photoFile.delete();
 					photoFile = null;
-					videoFile.delete();
+					if(videoFile!=null) videoFile.delete();
 					videoFile = null;
 				}
 
@@ -2508,7 +2533,7 @@ import javax.net.ssl.X509TrustManager;
 
 		}
 		else {
-			callbackManager.onActivityResult(requestCode, resultCode, data);
+			//callbackManager.onActivityResult(requestCode, resultCode, data);
 
 //			uiHelper.onActivityResult(requestCode, resultCode, data, null);
 /*

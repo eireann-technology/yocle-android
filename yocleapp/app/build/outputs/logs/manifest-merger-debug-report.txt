@@ -1,550 +1,369 @@
 -- Merging decision tree log ---
 manifest
-ADDED from AndroidManifest.xml:2:1
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:2:1-173:12
 	package
-		ADDED from AndroidManifest.xml:4:5
-		INJECTED from AndroidManifest.xml:0:0
-		INJECTED from AndroidManifest.xml:0:0
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:4:5-31
+		INJECTED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from AndroidManifest.xml:6:5
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:6:5-33
+		INJECTED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from AndroidManifest.xml:3:5
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		ADDED from AndroidManifest.xml:5:5
-		INJECTED from AndroidManifest.xml:0:0
-		INJECTED from AndroidManifest.xml:0:0
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:5:5-31
+		INJECTED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from AndroidManifest.xml:2:11
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
-ADDED from AndroidManifest.xml:8:5
-MERGED from com.android.support:design:23.0.1:20:5
-MERGED from com.android.support:support-v4:23.0.1:20:5
-MERGED from com.android.support:appcompat-v7:23.0.1:20:5
-MERGED from com.android.support:support-v4:23.0.1:20:5
-MERGED from com.android.support:support-v4:23.0.1:20:5
-MERGED from com.android.support:support-v13:23.0.1:20:5
-MERGED from com.android.support:support-v4:23.0.1:20:5
-MERGED from com.android.support:appcompat-v7:23.0.1:20:5
-MERGED from com.android.support:support-v4:23.0.1:20:5
-MERGED from com.google.android.gms:play-services:7.5.0:18:5
-MERGED from com.google.android.gms:play-services-ads:7.5.0:23:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
-MERGED from com.android.support:support-v4:23.0.1:20:5
-MERGED from com.google.android.gms:play-services-analytics:7.5.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
-MERGED from com.android.support:support-v4:23.0.1:20:5
-MERGED from com.google.android.gms:play-services-analytics:7.5.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
-MERGED from com.android.support:support-v4:23.0.1:20:5
-MERGED from com.google.android.gms:play-services-appindexing:7.5.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
-MERGED from com.android.support:support-v4:23.0.1:20:5
-MERGED from com.google.android.gms:play-services-appinvite:7.5.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
-MERGED from com.android.support:support-v4:23.0.1:20:5
-MERGED from com.google.android.gms:play-services-appstate:7.5.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
-MERGED from com.android.support:support-v4:23.0.1:20:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
-MERGED from com.android.support:support-v4:23.0.1:20:5
-MERGED from com.google.android.gms:play-services-cast:7.5.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
-MERGED from com.android.support:support-v4:23.0.1:20:5
-MERGED from com.android.support:mediarouter-v7:22.0.0:20:5
-MERGED from com.android.support:appcompat-v7:23.0.1:20:5
-MERGED from com.android.support:support-v4:23.0.1:20:5
-MERGED from com.google.android.gms:play-services-drive:7.5.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
-MERGED from com.android.support:support-v4:23.0.1:20:5
-MERGED from com.google.android.gms:play-services-fitness:7.5.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
-MERGED from com.android.support:support-v4:23.0.1:20:5
-MERGED from com.google.android.gms:play-services-location:7.5.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
-MERGED from com.android.support:support-v4:23.0.1:20:5
-MERGED from com.google.android.gms:play-services-maps:7.5.0:28:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
-MERGED from com.android.support:support-v4:23.0.1:20:5
-MERGED from com.google.android.gms:play-services-games:7.5.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
-MERGED from com.android.support:support-v4:23.0.1:20:5
-MERGED from com.google.android.gms:play-services-drive:7.5.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
-MERGED from com.android.support:support-v4:23.0.1:20:5
-MERGED from com.google.android.gms:play-services-gcm:7.5.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
-MERGED from com.android.support:support-v4:23.0.1:20:5
-MERGED from com.google.android.gms:play-services-identity:7.5.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
-MERGED from com.android.support:support-v4:23.0.1:20:5
-MERGED from com.google.android.gms:play-services-location:7.5.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
-MERGED from com.android.support:support-v4:23.0.1:20:5
-MERGED from com.google.android.gms:play-services-maps:7.5.0:28:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
-MERGED from com.android.support:support-v4:23.0.1:20:5
-MERGED from com.google.android.gms:play-services-maps:7.5.0:28:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
-MERGED from com.android.support:support-v4:23.0.1:20:5
-MERGED from com.google.android.gms:play-services-nearby:7.5.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
-MERGED from com.android.support:support-v4:23.0.1:20:5
-MERGED from com.google.android.gms:play-services-panorama:7.5.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
-MERGED from com.android.support:support-v4:23.0.1:20:5
-MERGED from com.google.android.gms:play-services-plus:7.5.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
-MERGED from com.android.support:support-v4:23.0.1:20:5
-MERGED from com.google.android.gms:play-services-safetynet:7.5.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
-MERGED from com.android.support:support-v4:23.0.1:20:5
-MERGED from com.google.android.gms:play-services-wallet:7.5.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
-MERGED from com.android.support:support-v4:23.0.1:20:5
-MERGED from com.google.android.gms:play-services-identity:7.5.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
-MERGED from com.android.support:support-v4:23.0.1:20:5
-MERGED from com.google.android.gms:play-services-maps:7.5.0:28:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
-MERGED from com.android.support:support-v4:23.0.1:20:5
-MERGED from com.google.android.gms:play-services-wearable:7.5.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
-MERGED from com.android.support:support-v4:23.0.1:20:5
-MERGED from com.facebook.android:facebook-android-sdk:4.12.0:24:5
-MERGED from com.android.support:cardview-v7:23.0.1:20:5
-MERGED from com.android.support:support-v4:23.0.1:20:5
-MERGED from com.android.support:customtabs:23.0.1:20:5
-MERGED from com.android.support:support-v4:23.0.1:20:5
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:24.2.0] C:\Users\AlanPoon\.android\build-cache\603a1ec2d72bbbe3861b78ee0739a2e018bbcfab\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.0] C:\Users\AlanPoon\.android\build-cache\6f4f0fb3030d499637065f7ed71ce49d9517594a\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\AlanPoon\.android\build-cache\51d3a23fa7ed95edc1149c9f2cb9477a19574414\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.google.android.gms:play-services:7.5.0] C:\Users\AlanPoon\.android\build-cache\8acbadf29e1209737b7a1155249bf47c6950db17\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\AlanPoon\.android\build-cache\7eaf0213b1d9099cae4373486f80be71c0b1d87d\output\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] C:\Users\AlanPoon\.android\build-cache\a51cc253c94a65bd30c58f717205aa15482f01c2\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:7.5.0] C:\Users\AlanPoon\.android\build-cache\d84de7699b99eba31222f9b4ee34a67fa5884dec\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] C:\Users\AlanPoon\.android\build-cache\5e5fb7e8fe0b8703c86f9a05d4954db34b506b80\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:7.5.0] C:\Users\AlanPoon\.android\build-cache\d93bfc9429b631d0e9f6b413f21b27c97827d804\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:7.5.0] C:\Users\AlanPoon\.android\build-cache\a503ed1511bb6b687554a6822e92a37edd860312\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:22.0.0] C:\Users\AlanPoon\.android\build-cache\1261e0d8d43e2312d66b9261cb9a2727655808d3\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\AlanPoon\.android\build-cache\80a113877c4b1978d7373b1138dc3bcf0b645f0b\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\AlanPoon\.android\build-cache\21a7febc17e4e2d33097c54ae3c8e4dc2a5719b0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\AlanPoon\.android\build-cache\0e0ca00ffa0e12c4ecfccb52005ce76e822b745e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-fitness:7.5.0] C:\Users\AlanPoon\.android\build-cache\4d80cbf19bf03ea56643d25e6eb68f2a190702cd\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:7.5.0] C:\Users\AlanPoon\.android\build-cache\f0093b5bc4b792deaab6078dfb18ef7a76a0f704\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:7.5.0] C:\Users\AlanPoon\.android\build-cache\fd9891fdf79a2b382bb6f943e34d9e7534a862e6\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:7.5.0] C:\Users\AlanPoon\.android\build-cache\d4dca2c93c2d61286926efc51c0acb066a6752ab\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:7.5.0] C:\Users\AlanPoon\.android\build-cache\29b94b3871cf4b2f890d90cc12f4e00ac03219d9\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:7.5.0] C:\Users\AlanPoon\.android\build-cache\4095f6ec481586d4333b298c0dc9beff9f71af26\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:7.5.0] C:\Users\AlanPoon\.android\build-cache\29c3709ca5a449f8fdcb42771afc6d715d98079d\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:7.5.0] C:\Users\AlanPoon\.android\build-cache\4783030127d884ca99c4909901dbdf8c2338aa67\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:7.5.0] C:\Users\AlanPoon\.android\build-cache\3c52c76c723635b32d8760a34286545f29a67be6\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\AlanPoon\.android\build-cache\991015b7a1864586b262654796c8937406ac87da\output\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:7.5.0] C:\Users\AlanPoon\.android\build-cache\31b8c57e0e3ef66ddd6f9cae9273d34cd5ae0773\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\AlanPoon\.android\build-cache\756d301d3f5b0c998c05cbe0d80ac8b7d90f92d0\output\AndroidManifest.xml:28:5-42
+MERGED from [com.google.android.gms:play-services-wearable:7.5.0] C:\Users\AlanPoon\.android\build-cache\2e68b8ff9e199d33c260287dc8ed21fc8d963439\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\AlanPoon\.android\build-cache\b160412b3cdef40c9f32037d048d98e062044b15\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\AlanPoon\.android\build-cache\25befd21e30d9699c71d23e5662402e0b8b45770\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\AlanPoon\.android\build-cache\889c2ae8eae5847f639fe8dcc54adce7b2cc234c\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\AlanPoon\.android\build-cache\e2d504c85f37d21c60e57d1f1c2ff23ea773c27f\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\AlanPoon\.android\build-cache\8bbb27e69f6d5ccaf938c2902c88ce1608601f2f\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\AlanPoon\.android\build-cache\8813689dd38cf1b30f69c74c0c030b59cb342d53\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\AlanPoon\.android\build-cache\3a14f417da4c6bbee2871d10929d127edd88192d\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\AlanPoon\.android\build-cache\51d3a23fa7ed95edc1149c9f2cb9477a19574414\output\AndroidManifest.xml:23:9-52
 	android:targetSdkVersion
-		ADDED from AndroidManifest.xml:10:9
-		INJECTED from AndroidManifest.xml:0:0
-		INJECTED from AndroidManifest.xml:0:0
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:10:9-38
+		INJECTED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from AndroidManifest.xml:9:9
-		INJECTED from AndroidManifest.xml:0:0
-		INJECTED from AndroidManifest.xml:0:0
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:9:9-35
+		INJECTED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from AndroidManifest.xml:12:5
-MERGED from com.google.android.gms:play-services-ads:7.5.0:20:5
-MERGED from com.google.android.gms:play-services-analytics:7.5.0:21:5
-MERGED from com.google.android.gms:play-services-analytics:7.5.0:21:5
-MERGED from com.google.android.gms:play-services-appinvite:7.5.0:19:5
-MERGED from com.google.android.gms:play-services-maps:7.5.0:21:5
-MERGED from com.google.android.gms:play-services-maps:7.5.0:21:5
-MERGED from com.google.android.gms:play-services-maps:7.5.0:21:5
-MERGED from com.google.android.gms:play-services-wallet:7.5.0:20:5
-MERGED from com.google.android.gms:play-services-maps:7.5.0:21:5
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\AlanPoon\.android\build-cache\7eaf0213b1d9099cae4373486f80be71c0b1d87d\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] C:\Users\AlanPoon\.android\build-cache\a51cc253c94a65bd30c58f717205aa15482f01c2\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] C:\Users\AlanPoon\.android\build-cache\5e5fb7e8fe0b8703c86f9a05d4954db34b506b80\output\AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\AlanPoon\.android\build-cache\991015b7a1864586b262654796c8937406ac87da\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\AlanPoon\.android\build-cache\756d301d3f5b0c998c05cbe0d80ac8b7d90f92d0\output\AndroidManifest.xml:21:5-66
 	android:name
-		ADDED from AndroidManifest.xml:12:22
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:12:22-64
 uses-permission#android.permission.GET_ACCOUNTS
-ADDED from AndroidManifest.xml:13:5
-MERGED from com.google.android.gms:play-services-wallet:7.5.0:21:5
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:13:5-71
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\AlanPoon\.android\build-cache\991015b7a1864586b262654796c8937406ac87da\output\AndroidManifest.xml:21:5-70
 	android:name
-		ADDED from AndroidManifest.xml:13:22
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:13:22-68
 uses-permission#android.permission.WAKE_LOCK
-ADDED from AndroidManifest.xml:14:5
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:14:5-68
 	android:name
-		ADDED from AndroidManifest.xml:14:22
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:14:22-65
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from AndroidManifest.xml:15:5
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:15:5-81
 	android:name
-		ADDED from AndroidManifest.xml:15:22
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:15:22-78
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from AndroidManifest.xml:16:5
-MERGED from com.google.android.gms:play-services-maps:7.5.0:22:5
-MERGED from com.google.android.gms:play-services-maps:7.5.0:22:5
-MERGED from com.google.android.gms:play-services-maps:7.5.0:22:5
-MERGED from com.google.android.gms:play-services-maps:7.5.0:22:5
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:16:5-81
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\AlanPoon\.android\build-cache\756d301d3f5b0c998c05cbe0d80ac8b7d90f92d0\output\AndroidManifest.xml:22:5-80
 	android:name
-		ADDED from AndroidManifest.xml:16:22
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:16:22-78
 uses-permission#com.android.vending.BILLING
-ADDED from AndroidManifest.xml:17:5
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:17:5-67
 	android:name
-		ADDED from AndroidManifest.xml:17:22
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:17:22-64
 uses-permission#android.permission.GET_TASKS
-ADDED from AndroidManifest.xml:18:5
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:18:5-68
 	android:name
-		ADDED from AndroidManifest.xml:18:22
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:18:22-65
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from AndroidManifest.xml:19:5
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:19:5-75
 	android:name
-		ADDED from AndroidManifest.xml:19:22
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:19:22-72
 uses-permission#com.invest.yocle.permission.C2D_MESSAGE
-ADDED from AndroidManifest.xml:25:5
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:25:5-79
 	android:name
-		ADDED from AndroidManifest.xml:25:22
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:25:22-76
 uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from AndroidManifest.xml:26:5
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:26:5-82
 	android:name
-		ADDED from AndroidManifest.xml:26:22
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:26:22-79
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from AndroidManifest.xml:27:5
-MERGED from com.google.android.gms:play-services-ads:7.5.0:21:5
-MERGED from com.google.android.gms:play-services-analytics:7.5.0:22:5
-MERGED from com.google.android.gms:play-services-analytics:7.5.0:22:5
-MERGED from com.google.android.gms:play-services-maps:7.5.0:20:5
-MERGED from com.google.android.gms:play-services-maps:7.5.0:20:5
-MERGED from com.google.android.gms:play-services-maps:7.5.0:20:5
-MERGED from com.google.android.gms:play-services-nearby:7.5.0:19:5
-MERGED from com.google.android.gms:play-services-maps:7.5.0:20:5
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\AlanPoon\.android\build-cache\7eaf0213b1d9099cae4373486f80be71c0b1d87d\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] C:\Users\AlanPoon\.android\build-cache\a51cc253c94a65bd30c58f717205aa15482f01c2\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-nearby:7.5.0] C:\Users\AlanPoon\.android\build-cache\4095f6ec481586d4333b298c0dc9beff9f71af26\output\AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\AlanPoon\.android\build-cache\756d301d3f5b0c998c05cbe0d80ac8b7d90f92d0\output\AndroidManifest.xml:20:5-78
 	android:name
-		ADDED from AndroidManifest.xml:27:22
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:27:22-76
 uses-permission#android.permission.VIBRATE
-ADDED from AndroidManifest.xml:28:5
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:28:5-66
 	android:name
-		ADDED from AndroidManifest.xml:28:22
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:28:22-63
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from AndroidManifest.xml:29:5
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:29:5-78
 	android:name
-		ADDED from AndroidManifest.xml:29:22
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:29:22-75
 android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from AndroidManifest.xml:31:5
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:31:5-33:38
 	android:maxSdkVersion
-		ADDED from AndroidManifest.xml:33:9
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:33:9-35
 	android:name
-		ADDED from AndroidManifest.xml:32:9
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:32:9-64
 application
-ADDED from AndroidManifest.xml:35:5
-MERGED from com.android.support:design:23.0.1:22:5
-MERGED from com.android.support:support-v4:23.0.1:22:5
-MERGED from com.android.support:appcompat-v7:23.0.1:22:5
-MERGED from com.android.support:support-v4:23.0.1:22:5
-MERGED from com.android.support:support-v4:23.0.1:22:5
-MERGED from com.android.support:support-v13:23.0.1:22:5
-MERGED from com.android.support:support-v4:23.0.1:22:5
-MERGED from com.android.support:appcompat-v7:23.0.1:22:5
-MERGED from com.android.support:support-v4:23.0.1:22:5
-MERGED from com.google.android.gms:play-services:7.5.0:19:5
-MERGED from com.google.android.gms:play-services-ads:7.5.0:24:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
-MERGED from com.android.support:support-v4:23.0.1:22:5
-MERGED from com.google.android.gms:play-services-analytics:7.5.0:24:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
-MERGED from com.android.support:support-v4:23.0.1:22:5
-MERGED from com.google.android.gms:play-services-analytics:7.5.0:24:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
-MERGED from com.android.support:support-v4:23.0.1:22:5
-MERGED from com.google.android.gms:play-services-appindexing:7.5.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
-MERGED from com.android.support:support-v4:23.0.1:22:5
-MERGED from com.google.android.gms:play-services-appinvite:7.5.0:20:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
-MERGED from com.android.support:support-v4:23.0.1:22:5
-MERGED from com.google.android.gms:play-services-appstate:7.5.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
-MERGED from com.android.support:support-v4:23.0.1:22:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
-MERGED from com.android.support:support-v4:23.0.1:22:5
-MERGED from com.google.android.gms:play-services-cast:7.5.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
-MERGED from com.android.support:support-v4:23.0.1:22:5
-MERGED from com.android.support:mediarouter-v7:22.0.0:22:5
-MERGED from com.android.support:appcompat-v7:23.0.1:22:5
-MERGED from com.android.support:support-v4:23.0.1:22:5
-MERGED from com.google.android.gms:play-services-drive:7.5.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
-MERGED from com.android.support:support-v4:23.0.1:22:5
-MERGED from com.google.android.gms:play-services-fitness:7.5.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
-MERGED from com.android.support:support-v4:23.0.1:22:5
-MERGED from com.google.android.gms:play-services-location:7.5.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
-MERGED from com.android.support:support-v4:23.0.1:22:5
-MERGED from com.google.android.gms:play-services-maps:7.5.0:29:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
-MERGED from com.android.support:support-v4:23.0.1:22:5
-MERGED from com.google.android.gms:play-services-games:7.5.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
-MERGED from com.android.support:support-v4:23.0.1:22:5
-MERGED from com.google.android.gms:play-services-drive:7.5.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
-MERGED from com.android.support:support-v4:23.0.1:22:5
-MERGED from com.google.android.gms:play-services-gcm:7.5.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
-MERGED from com.android.support:support-v4:23.0.1:22:5
-MERGED from com.google.android.gms:play-services-identity:7.5.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
-MERGED from com.android.support:support-v4:23.0.1:22:5
-MERGED from com.google.android.gms:play-services-location:7.5.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
-MERGED from com.android.support:support-v4:23.0.1:22:5
-MERGED from com.google.android.gms:play-services-maps:7.5.0:29:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
-MERGED from com.android.support:support-v4:23.0.1:22:5
-MERGED from com.google.android.gms:play-services-maps:7.5.0:29:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
-MERGED from com.android.support:support-v4:23.0.1:22:5
-MERGED from com.google.android.gms:play-services-nearby:7.5.0:20:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
-MERGED from com.android.support:support-v4:23.0.1:22:5
-MERGED from com.google.android.gms:play-services-panorama:7.5.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
-MERGED from com.android.support:support-v4:23.0.1:22:5
-MERGED from com.google.android.gms:play-services-plus:7.5.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
-MERGED from com.android.support:support-v4:23.0.1:22:5
-MERGED from com.google.android.gms:play-services-safetynet:7.5.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
-MERGED from com.android.support:support-v4:23.0.1:22:5
-MERGED from com.google.android.gms:play-services-wallet:7.5.0:24:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
-MERGED from com.android.support:support-v4:23.0.1:22:5
-MERGED from com.google.android.gms:play-services-identity:7.5.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
-MERGED from com.android.support:support-v4:23.0.1:22:5
-MERGED from com.google.android.gms:play-services-maps:7.5.0:29:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
-MERGED from com.android.support:support-v4:23.0.1:22:5
-MERGED from com.google.android.gms:play-services-wearable:7.5.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
-MERGED from com.android.support:support-v4:23.0.1:22:5
-MERGED from com.facebook.android:facebook-android-sdk:4.12.0:28:5
-MERGED from com.android.support:cardview-v7:23.0.1:22:5
-MERGED from com.android.support:support-v4:23.0.1:22:5
-MERGED from com.android.support:customtabs:23.0.1:22:5
-MERGED from com.android.support:support-v4:23.0.1:22:5
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:35:5-171:19
+MERGED from [com.android.support:design:24.2.0] C:\Users\AlanPoon\.android\build-cache\603a1ec2d72bbbe3861b78ee0739a2e018bbcfab\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\AlanPoon\.android\build-cache\51d3a23fa7ed95edc1149c9f2cb9477a19574414\output\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services:7.5.0] C:\Users\AlanPoon\.android\build-cache\8acbadf29e1209737b7a1155249bf47c6950db17\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\AlanPoon\.android\build-cache\7eaf0213b1d9099cae4373486f80be71c0b1d87d\output\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] C:\Users\AlanPoon\.android\build-cache\a51cc253c94a65bd30c58f717205aa15482f01c2\output\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:7.5.0] C:\Users\AlanPoon\.android\build-cache\d84de7699b99eba31222f9b4ee34a67fa5884dec\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] C:\Users\AlanPoon\.android\build-cache\5e5fb7e8fe0b8703c86f9a05d4954db34b506b80\output\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-appstate:7.5.0] C:\Users\AlanPoon\.android\build-cache\d93bfc9429b631d0e9f6b413f21b27c97827d804\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:7.5.0] C:\Users\AlanPoon\.android\build-cache\a503ed1511bb6b687554a6822e92a37edd860312\output\AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:22.0.0] C:\Users\AlanPoon\.android\build-cache\1261e0d8d43e2312d66b9261cb9a2727655808d3\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\AlanPoon\.android\build-cache\80a113877c4b1978d7373b1138dc3bcf0b645f0b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\AlanPoon\.android\build-cache\21a7febc17e4e2d33097c54ae3c8e4dc2a5719b0\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\AlanPoon\.android\build-cache\0e0ca00ffa0e12c4ecfccb52005ce76e822b745e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-fitness:7.5.0] C:\Users\AlanPoon\.android\build-cache\4d80cbf19bf03ea56643d25e6eb68f2a190702cd\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:7.5.0] C:\Users\AlanPoon\.android\build-cache\f0093b5bc4b792deaab6078dfb18ef7a76a0f704\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:7.5.0] C:\Users\AlanPoon\.android\build-cache\fd9891fdf79a2b382bb6f943e34d9e7534a862e6\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:7.5.0] C:\Users\AlanPoon\.android\build-cache\d4dca2c93c2d61286926efc51c0acb066a6752ab\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:7.5.0] C:\Users\AlanPoon\.android\build-cache\29b94b3871cf4b2f890d90cc12f4e00ac03219d9\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-nearby:7.5.0] C:\Users\AlanPoon\.android\build-cache\4095f6ec481586d4333b298c0dc9beff9f71af26\output\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-panorama:7.5.0] C:\Users\AlanPoon\.android\build-cache\29c3709ca5a449f8fdcb42771afc6d715d98079d\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:7.5.0] C:\Users\AlanPoon\.android\build-cache\4783030127d884ca99c4909901dbdf8c2338aa67\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:7.5.0] C:\Users\AlanPoon\.android\build-cache\3c52c76c723635b32d8760a34286545f29a67be6\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\AlanPoon\.android\build-cache\991015b7a1864586b262654796c8937406ac87da\output\AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-identity:7.5.0] C:\Users\AlanPoon\.android\build-cache\31b8c57e0e3ef66ddd6f9cae9273d34cd5ae0773\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\AlanPoon\.android\build-cache\756d301d3f5b0c998c05cbe0d80ac8b7d90f92d0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-wearable:7.5.0] C:\Users\AlanPoon\.android\build-cache\2e68b8ff9e199d33c260287dc8ed21fc8d963439\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\AlanPoon\.android\build-cache\b160412b3cdef40c9f32037d048d98e062044b15\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\AlanPoon\.android\build-cache\25befd21e30d9699c71d23e5662402e0b8b45770\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\AlanPoon\.android\build-cache\889c2ae8eae5847f639fe8dcc54adce7b2cc234c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\AlanPoon\.android\build-cache\e2d504c85f37d21c60e57d1f1c2ff23ea773c27f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\AlanPoon\.android\build-cache\8bbb27e69f6d5ccaf938c2902c88ce1608601f2f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\AlanPoon\.android\build-cache\8813689dd38cf1b30f69c74c0c030b59cb342d53\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\AlanPoon\.android\build-cache\3a14f417da4c6bbee2871d10929d127edd88192d\output\AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from AndroidManifest.xml:38:9
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:38:9-41
 	android:allowBackup
-		ADDED from AndroidManifest.xml:36:9
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:36:9-35
 	android:icon
-		ADDED from AndroidManifest.xml:37:9
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:37:9-43
 	android:theme
-		ADDED from AndroidManifest.xml:39:9
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:39:9-40
 meta-data#com.google.android.gms.version
-ADDED from AndroidManifest.xml:40:9
-MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:40:9-42:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\AlanPoon\.android\build-cache\b160412b3cdef40c9f32037d048d98e062044b15\output\AndroidManifest.xml:21:9-23:69
 	android:value
-		ADDED from AndroidManifest.xml:42:13
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:42:13-66
 	android:name
-		ADDED from AndroidManifest.xml:41:13
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:41:13-58
 activity#com.invest.yocle.SplashActivity
-ADDED from AndroidManifest.xml:44:9
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:44:9-52:20
 	android:theme
-		ADDED from AndroidManifest.xml:46:13
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:46:13-47
 	android:name
-		ADDED from AndroidManifest.xml:45:13
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:45:13-59
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from AndroidManifest.xml:47:13
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:47:13-51:29
 action#android.intent.action.MAIN
-ADDED from AndroidManifest.xml:48:17
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:48:17-69
 	android:name
-		ADDED from AndroidManifest.xml:48:25
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:48:25-66
 category#android.intent.category.LAUNCHER
-ADDED from AndroidManifest.xml:50:17
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:50:17-77
 	android:name
-		ADDED from AndroidManifest.xml:50:27
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:50:27-74
 activity#com.invest.yocle.MainActivity
-ADDED from AndroidManifest.xml:53:9
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:54:9-64:20
 	android:label
-		ADDED from AndroidManifest.xml:57:13
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:58:13-45
 	android:launchMode
-		ADDED from AndroidManifest.xml:54:13
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:55:13-43
 	android:configChanges
-		ADDED from AndroidManifest.xml:56:13
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:57:13-59
 	android:name
-		ADDED from AndroidManifest.xml:55:13
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:56:13-57
 intent-filter#android.intent.action.MAIN
-ADDED from AndroidManifest.xml:58:13
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:59:13-63:29
 activity#com.invest.yocle.WebViewActivity
-ADDED from AndroidManifest.xml:64:9
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:65:9-69:20
 	android:label
-		ADDED from AndroidManifest.xml:67:13
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:68:13-45
 	android:configChanges
-		ADDED from AndroidManifest.xml:66:13
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:67:13-59
 	android:name
-		ADDED from AndroidManifest.xml:65:13
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:66:13-60
 receiver#com.invest.yocle.GcmBroadcastReceiver
-ADDED from AndroidManifest.xml:70:9
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:71:9-81:20
 	android:permission
-		ADDED from AndroidManifest.xml:72:13
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:73:13-73
 	android:name
-		ADDED from AndroidManifest.xml:71:13
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:72:13-65
 intent-filter#android.intent.action.BOOT_COMPLETED+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION+com.invest.yocle
-ADDED from AndroidManifest.xml:73:13
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:74:13-80:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from AndroidManifest.xml:74:17
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:75:17-81
 	android:name
-		ADDED from AndroidManifest.xml:74:25
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:75:25-78
 action#com.google.android.c2dm.intent.REGISTRATION
-ADDED from AndroidManifest.xml:75:17
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:76:17-86
 	android:name
-		ADDED from AndroidManifest.xml:75:25
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:76:25-83
 action#android.intent.action.BOOT_COMPLETED
-ADDED from AndroidManifest.xml:76:17
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:77:17-79
 	android:name
-		ADDED from AndroidManifest.xml:76:25
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:77:25-76
 category#com.invest.yocle
-ADDED from AndroidManifest.xml:78:17
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:79:17-61
 	android:name
-		ADDED from AndroidManifest.xml:78:27
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:79:27-58
 service#com.invest.yocle.GCMNotificationIntentService
-ADDED from AndroidManifest.xml:82:9
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:83:9-81
 	android:name
-		ADDED from AndroidManifest.xml:82:18
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:83:18-78
 activity#com.invest.yocle.YouTubeActivity
-ADDED from AndroidManifest.xml:98:9
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:99:9-108:20
 	android:label
-		ADDED from AndroidManifest.xml:100:13
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:101:13-43
 	android:name
-		ADDED from AndroidManifest.xml:99:13
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:100:13-60
 meta-data#minVersion
-ADDED from AndroidManifest.xml:101:13
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:102:13-104:37
 	android:value
-		ADDED from AndroidManifest.xml:103:17
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:104:17-34
 	android:name
-		ADDED from AndroidManifest.xml:102:17
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:103:17-42
 meta-data#isLaunchableActivity
-ADDED from AndroidManifest.xml:104:13
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:105:13-107:40
 	android:value
-		ADDED from AndroidManifest.xml:106:17
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:107:17-37
 	android:name
-		ADDED from AndroidManifest.xml:105:17
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:106:17-52
 activity#com.invest.yocle.EditTextActivity
-ADDED from AndroidManifest.xml:108:9
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:109:9-113:20
 	android:label
-		ADDED from AndroidManifest.xml:111:13
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:112:13-45
 	android:configChanges
-		ADDED from AndroidManifest.xml:110:13
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:111:13-59
 	android:name
-		ADDED from AndroidManifest.xml:109:13
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:110:13-61
 meta-data#com.facebook.sdk.ApplicationId
-ADDED from AndroidManifest.xml:114:9
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:115:9-107
 	android:value
-		ADDED from AndroidManifest.xml:114:66
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:115:66-105
 	android:name
-		ADDED from AndroidManifest.xml:114:20
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:115:20-65
 service#com.invest.yocle.OverlayButtonService
-ADDED from AndroidManifest.xml:116:9
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:117:9-119:40
 	android:exported
-		ADDED from AndroidManifest.xml:118:13
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:119:13-37
 	android:name
-		ADDED from AndroidManifest.xml:117:13
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:118:13-65
 service#com.invest.yocle.GetAppVersionService
-ADDED from AndroidManifest.xml:119:9
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:120:9-122:40
 	android:exported
-		ADDED from AndroidManifest.xml:121:13
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:122:13-37
 	android:name
-		ADDED from AndroidManifest.xml:120:13
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:121:13-65
 activity#com.invest.yocle.MyVideoPlayer
-ADDED from AndroidManifest.xml:123:9
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:124:9-128:20
 	android:label
-		ADDED from AndroidManifest.xml:126:13
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:127:13-67
 	android:configChanges
-		ADDED from AndroidManifest.xml:125:13
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:126:13-59
 	android:name
-		ADDED from AndroidManifest.xml:124:13
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:125:13-58
 activity#com.invest.yocle.SwipeActivity
-ADDED from AndroidManifest.xml:128:9
+ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:129:9-138:20
 	android:label
-		ADDED from AndroidManifest.xml:131:13
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:132:13-45
 	android:configChanges
-		ADDED from AndroidManifest.xml:130:13
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:131:13-59
 	android:name
-		ADDED from AndroidManifest.xml:129:13
-activity#com.facebook.FacebookActivity
-ADDED from AndroidManifest.xml:155:9
-MERGED from com.facebook.android:facebook-android-sdk:4.12.0:29:9
-	android:label
-		ADDED from AndroidManifest.xml:159:13
-	android:configChanges
-		ADDED from AndroidManifest.xml:156:13
-	android:theme
-		ADDED from AndroidManifest.xml:158:13
-		REJECTED from com.facebook.android:facebook-android-sdk:4.12.0:32:13
-	tools:replace
-		ADDED from AndroidManifest.xml:155:64
-	android:name
-		ADDED from AndroidManifest.xml:155:19
-provider#com.facebook.FacebookContentProvider
-ADDED from AndroidManifest.xml:161:9
-	android:authorities
-		ADDED from AndroidManifest.xml:161:19
-	android:exported
-		ADDED from AndroidManifest.xml:163:13
-	android:name
-		ADDED from AndroidManifest.xml:162:13
-activity#com.google.android.gms.ads.AdActivity
-ADDED from com.google.android.gms:play-services-ads:7.5.0:26:9
-	android:configChanges
-		ADDED from com.google.android.gms:play-services-ads:7.5.0:28:13
-	android:theme
-		ADDED from com.google.android.gms:play-services-ads:7.5.0:29:13
-	android:name
-		ADDED from com.google.android.gms:play-services-ads:7.5.0:27:13
-activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
-ADDED from com.google.android.gms:play-services-ads:7.5.0:30:9
-	android:theme
-		ADDED from com.google.android.gms:play-services-ads:7.5.0:31:13
-	android:name
-		ADDED from com.google.android.gms:play-services-ads:7.5.0:30:19
-uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from com.google.android.gms:play-services-maps:7.5.0:23:5
-MERGED from com.google.android.gms:play-services-maps:7.5.0:23:5
-MERGED from com.google.android.gms:play-services-maps:7.5.0:23:5
-MERGED from com.google.android.gms:play-services-maps:7.5.0:23:5
-	android:name
-		ADDED from com.google.android.gms:play-services-maps:7.5.0:23:22
-uses-feature#0x00020000
-ADDED from com.google.android.gms:play-services-maps:7.5.0:24:5
-MERGED from com.google.android.gms:play-services-maps:7.5.0:24:5
-MERGED from com.google.android.gms:play-services-maps:7.5.0:24:5
-MERGED from com.google.android.gms:play-services-maps:7.5.0:24:5
-	android:glEsVersion
-		ADDED from com.google.android.gms:play-services-maps:7.5.0:25:8
-	android:required
-		ADDED from com.google.android.gms:play-services-maps:7.5.0:26:8
-uses-permission#android.permission.USE_CREDENTIALS
-ADDED from com.google.android.gms:play-services-wallet:7.5.0:22:5
-	android:name
-		ADDED from com.google.android.gms:play-services-wallet:7.5.0:22:22
-meta-data#com.google.android.gms.wallet.api.enabled
-ADDED from com.google.android.gms:play-services-wallet:7.5.0:25:9
+		ADDED from D:\github_repo\yocle-android\yocleapp\app\src\main\AndroidManifest.xml:130:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:25.3.1] C:\Users\AlanPoon\.android\build-cache\51d3a23fa7ed95edc1149c9f2cb9477a19574414\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\AlanPoon\.android\build-cache\80a113877c4b1978d7373b1138dc3bcf0b645f0b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\AlanPoon\.android\build-cache\21a7febc17e4e2d33097c54ae3c8e4dc2a5719b0\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\AlanPoon\.android\build-cache\0e0ca00ffa0e12c4ecfccb52005ce76e822b745e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\AlanPoon\.android\build-cache\25befd21e30d9699c71d23e5662402e0b8b45770\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\AlanPoon\.android\build-cache\889c2ae8eae5847f639fe8dcc54adce7b2cc234c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\AlanPoon\.android\build-cache\e2d504c85f37d21c60e57d1f1c2ff23ea773c27f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\AlanPoon\.android\build-cache\8bbb27e69f6d5ccaf938c2902c88ce1608601f2f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\AlanPoon\.android\build-cache\8813689dd38cf1b30f69c74c0c030b59cb342d53\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\AlanPoon\.android\build-cache\3a14f417da4c6bbee2871d10929d127edd88192d\output\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from com.google.android.gms:play-services-wallet:7.5.0:27:13
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\AlanPoon\.android\build-cache\51d3a23fa7ed95edc1149c9f2cb9477a19574414\output\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from com.google.android.gms:play-services-wallet:7.5.0:26:13
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\AlanPoon\.android\build-cache\51d3a23fa7ed95edc1149c9f2cb9477a19574414\output\AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\AlanPoon\.android\build-cache\7eaf0213b1d9099cae4373486f80be71c0b1d87d\output\AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\AlanPoon\.android\build-cache\7eaf0213b1d9099cae4373486f80be71c0b1d87d\output\AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\AlanPoon\.android\build-cache\7eaf0213b1d9099cae4373486f80be71c0b1d87d\output\AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\AlanPoon\.android\build-cache\7eaf0213b1d9099cae4373486f80be71c0b1d87d\output\AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\AlanPoon\.android\build-cache\7eaf0213b1d9099cae4373486f80be71c0b1d87d\output\AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\AlanPoon\.android\build-cache\7eaf0213b1d9099cae4373486f80be71c0b1d87d\output\AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\AlanPoon\.android\build-cache\7eaf0213b1d9099cae4373486f80be71c0b1d87d\output\AndroidManifest.xml:30:19-91
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\AlanPoon\.android\build-cache\991015b7a1864586b262654796c8937406ac87da\output\AndroidManifest.xml:22:5-73
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\AlanPoon\.android\build-cache\991015b7a1864586b262654796c8937406ac87da\output\AndroidManifest.xml:22:22-71
+meta-data#com.google.android.gms.wallet.api.enabled
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\AlanPoon\.android\build-cache\991015b7a1864586b262654796c8937406ac87da\output\AndroidManifest.xml:25:9-27:36
+	android:value
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\AlanPoon\.android\build-cache\991015b7a1864586b262654796c8937406ac87da\output\AndroidManifest.xml:27:13-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\AlanPoon\.android\build-cache\991015b7a1864586b262654796c8937406ac87da\output\AndroidManifest.xml:26:13-69
 receiver#com.google.android.gms.wallet.EnableWalletOptimizationReceiver
-ADDED from com.google.android.gms:play-services-wallet:7.5.0:28:9
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\AlanPoon\.android\build-cache\991015b7a1864586b262654796c8937406ac87da\output\AndroidManifest.xml:28:9-34:20
 	android:exported
-		ADDED from com.google.android.gms:play-services-wallet:7.5.0:30:13
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\AlanPoon\.android\build-cache\991015b7a1864586b262654796c8937406ac87da\output\AndroidManifest.xml:30:13-37
 	android:name
-		ADDED from com.google.android.gms:play-services-wallet:7.5.0:29:13
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\AlanPoon\.android\build-cache\991015b7a1864586b262654796c8937406ac87da\output\AndroidManifest.xml:29:13-90
 intent-filter#com.google.android.gms.wallet.ENABLE_WALLET_OPTIMIZATION
-ADDED from com.google.android.gms:play-services-wallet:7.5.0:31:13
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\AlanPoon\.android\build-cache\991015b7a1864586b262654796c8937406ac87da\output\AndroidManifest.xml:31:13-33:29
 action#com.google.android.gms.wallet.ENABLE_WALLET_OPTIMIZATION
-ADDED from com.google.android.gms:play-services-wallet:7.5.0:32:17
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\AlanPoon\.android\build-cache\991015b7a1864586b262654796c8937406ac87da\output\AndroidManifest.xml:32:17-99
 	android:name
-		ADDED from com.google.android.gms:play-services-wallet:7.5.0:32:25
-activity#com.facebook.CustomTabActivity
-ADDED from com.facebook.android:facebook-android-sdk:4.12.0:33:9
-	android:exported
-		ADDED from com.facebook.android:facebook-android-sdk:4.12.0:35:13
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\AlanPoon\.android\build-cache\991015b7a1864586b262654796c8937406ac87da\output\AndroidManifest.xml:32:25-96
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\AlanPoon\.android\build-cache\756d301d3f5b0c998c05cbe0d80ac8b7d90f92d0\output\AndroidManifest.xml:23:5-80
 	android:name
-		ADDED from com.facebook.android:facebook-android-sdk:4.12.0:34:13
+		ADDED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\AlanPoon\.android\build-cache\756d301d3f5b0c998c05cbe0d80ac8b7d90f92d0\output\AndroidManifest.xml:23:22-78
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\AlanPoon\.android\build-cache\756d301d3f5b0c998c05cbe0d80ac8b7d90f92d0\output\AndroidManifest.xml:24:5-26:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\AlanPoon\.android\build-cache\756d301d3f5b0c998c05cbe0d80ac8b7d90f92d0\output\AndroidManifest.xml:25:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\AlanPoon\.android\build-cache\756d301d3f5b0c998c05cbe0d80ac8b7d90f92d0\output\AndroidManifest.xml:26:8-31

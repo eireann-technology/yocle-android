@@ -17,4 +17,4 @@
         android:textSize="@dimen/tool_bar_text_size"
         android:gravity="left" />
 
-</android.support.v7.widget.Toolbar><!-- From: file:/D:/github_workspace/yocle-android/yocleapp/app/src/main/res/layout/toolbar.xml -->
+</android.support.v7.widget.Toolbar><!-- From: file:/D:/github_repo/yocle-android/yocleapp/app/src/main/res/layout/toolbar.xml -->
