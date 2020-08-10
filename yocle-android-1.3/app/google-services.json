@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "784880654330",
+    "firebase_url": "https://yocle-net.firebaseio.com",
+    "project_id": "yocle-net",
+    "storage_bucket": "yocle-net.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784880654330:android:3e172d66c1187c66c0b643",
+        "android_client_info": {
+          "package_name": "com.yocle.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784880654330-vk1sjf9ol2stjsq7c2hj10cmqe8360b7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yocle.app",
+            "certificate_hash": "c9009f37210849f453d39e0ae3866de57151db41"
+          }
+        },
+        {
+          "client_id": "784880654330-p7t0e93l76q3m19njt34vc7ko8pgs0cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKOyAYb9wAtzl5BTa7KyWuH3BpO5RxpWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784880654330-p7t0e93l76q3m19njt34vc7ko8pgs0cn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784880654330:android:fc26e1266729708e",
+        "android_client_info": {
+          "package_name": "yocle.net"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784880654330-p7t0e93l76q3m19njt34vc7ko8pgs0cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKOyAYb9wAtzl5BTa7KyWuH3BpO5RxpWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784880654330-p7t0e93l76q3m19njt34vc7ko8pgs0cn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

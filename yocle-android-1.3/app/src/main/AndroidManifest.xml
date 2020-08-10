@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.yocle.app">
+
+    <!--
+    android:versionCode="1004"
+    android:versionName="1.0.04">
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="25"
+        />
+    -->
+    <!--
+       added by alantypoon 20190208
+       https://stackoverflow.com/questions/40236925/allowing-microphone-accesspermission-in-webview-android-studio-java
+       <uses-permission android:name="android.permission.GET_TASKS" />
+       <uses-permission android:name="android.permission.CAPTURE_AUDIO_OUTPUT" />
+    -->
+    <!--
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <permission android:name="com.yocle.app.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <receiver
+        android:name="com.yocle.app.GcmBroadcastReceiver"
+        android:permission="com.google.android.c2dm.permission.SEND" >
+        <intent-filter>
+            <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+            <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+            <action android:name="android.intent.action.BOOT_COMPLETED" />
+
+            <category android:name="com.yocle.app" />
+        </intent-filter>
+    </receiver>
+    -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.MICROPHONE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <uses-feature android:name="android.hardware.microphone" />
+    <uses-feature android:name="android.hardware.faketouch" />
+    <uses-feature
+        android:name="android.hardware.touchscreen"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <!--         https://stackoverflow.com/questions/7829162/failed-to-connect-to-camera-service -->
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+
+
+        <service android:name=".MyFirebaseService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name=".SplashActivity"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".WebViewActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"></activity>
+<!--
+        <service android:name=".GCMNotificationIntentService" />
+-->
+        <!--
+        <activity
+            android:name="com.yocle.app.YouTubeActivity"
+            android:label="Youtube player" >
+            <meta-data
+                android:name="minVersion"
+                android:value="8" />
+            <meta-data
+                android:name="isLaunchableActivity"
+                android:value="true" />
+        </activity>
+        -->
+        <activity
+            android:name=".EditTextActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"></activity>
+
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+
+        <service
+            android:name=".OverlayButtonService"
+            android:exported="false" />
+        <service
+            android:name=".GetAppVersionService"
+            android:exported="false" />
+
+        <activity
+            android:name=".MyVideoPlayer"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_my_video_player"></activity>
+        <activity
+            android:name=".SwipeActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

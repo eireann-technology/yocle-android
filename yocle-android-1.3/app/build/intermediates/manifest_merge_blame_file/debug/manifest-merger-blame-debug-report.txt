@@ -1,0 +1,420 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.yocle.app"
+4    android:versionCode="13"
+5    android:versionName="1.3" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml
+10
+11    <!--
+12    android:versionCode="1004"
+13    android:versionName="1.0.04">
+14    <uses-sdk
+15        android:minSdkVersion="15"
+16        android:targetSdkVersion="25"
+17        />
+18    -->
+19    <!--
+20       added by alantypoon 20190208
+21       https://stackoverflow.com/questions/40236925/allowing-microphone-accesspermission-in-webview-android-studio-java
+22       <uses-permission android:name="android.permission.GET_TASKS" />
+23       <uses-permission android:name="android.permission.CAPTURE_AUDIO_OUTPUT" />
+24    -->
+25    <!--
+26    <uses-permission android:name="android.permission.WAKE_LOCK" />
+27    <permission android:name="com.yocle.app.permission.C2D_MESSAGE"
+28        android:protectionLevel="signature" />
+29    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+30    <receiver
+31        android:name="com.yocle.app.GcmBroadcastReceiver"
+32        android:permission="com.google.android.c2dm.permission.SEND" >
+33        <intent-filter>
+34            <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+35            <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+36            <action android:name="android.intent.action.BOOT_COMPLETED" />
+37
+38            <category android:name="com.yocle.app" />
+39        </intent-filter>
+40    </receiver>
+41    -->
+42    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+42-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:37:5-80
+42-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:37:22-77
+43    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+43-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:38:5-81
+43-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:38:22-78
+44    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+44-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:39:5-71
+44-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:39:22-68
+45    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+45-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:40:5-81
+45-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:40:22-78
+46    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+46-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:41:5-75
+46-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:41:22-72
+47    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+47-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:42:5-79
+47-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:42:22-76
+48    <uses-permission android:name="android.permission.VIBRATE" />
+48-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:43:5-66
+48-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:43:22-63
+49    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+49-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:44:5-78
+49-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:44:22-75
+50    <uses-permission android:name="android.permission.INTERNET" />
+50-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:45:5-67
+50-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:45:22-64
+51    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+51-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:46:5-80
+51-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:46:22-77
+52    <uses-permission android:name="android.permission.MICROPHONE" />
+52-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:47:5-69
+52-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:47:22-66
+53    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+53-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:48:5-71
+53-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:48:22-68
+54
+55    <uses-feature android:name="android.hardware.microphone" />
+55-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:50:5-64
+55-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:50:19-61
+56    <uses-feature android:name="android.hardware.faketouch" />
+56-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:51:5-63
+56-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:51:19-60
+57    <uses-feature
+57-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:52:5-54:36
+58        android:name="android.hardware.touchscreen"
+58-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:53:9-52
+59        android:required="false" />
+59-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:54:9-33
+60
+61    <uses-permission android:name="android.permission.CAMERA" />
+61-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:56:5-65
+61-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:56:22-62
+62
+63    <uses-feature android:name="android.hardware.camera" />
+63-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:58:5-60
+63-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:58:19-57
+64    <!-- https://stackoverflow.com/questions/7829162/failed-to-connect-to-camera-service -->
+65    <uses-feature android:name="android.hardware.camera.autofocus" />
+65-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:60:5-70
+65-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:60:19-67
+66
+67    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+67-->[com.google.android.gms:play-services-measurement-api:17.2.1] /Users/alan/.gradle/caches/transforms-2/files-2.1/559f094854fa85bd072da76bc0e0e01f/play-services-measurement-api-17.2.1/AndroidManifest.xml:24:5-68
+67-->[com.google.android.gms:play-services-measurement-api:17.2.1] /Users/alan/.gradle/caches/transforms-2/files-2.1/559f094854fa85bd072da76bc0e0e01f/play-services-measurement-api-17.2.1/AndroidManifest.xml:24:22-65
+68    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+68-->[com.google.firebase:firebase-iid:20.0.2] /Users/alan/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:26:5-82
+68-->[com.google.firebase:firebase-iid:20.0.2] /Users/alan/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:26:22-79
+69    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+69-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/alan/.gradle/caches/transforms-2/files-2.1/1d7fa4c15cc347978dce90a6ff08e8ee/play-services-measurement-17.2.1/AndroidManifest.xml:26:5-110
+69-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/alan/.gradle/caches/transforms-2/files-2.1/1d7fa4c15cc347978dce90a6ff08e8ee/play-services-measurement-17.2.1/AndroidManifest.xml:26:22-107
+70
+71    <application
+71-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:62:5-148:19
+72        android:allowBackup="true"
+72-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:63:9-35
+73        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+73-->[androidx.core:core:1.0.0] /Users/alan/.gradle/caches/transforms-2/files-2.1/10ae0346493e57bd5c834c5376242eb1/core-1.0.0/AndroidManifest.xml:22:18-86
+74        android:debuggable="true"
+75        android:icon="@mipmap/ic_launcher"
+75-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:64:9-43
+76        android:label="@string/app_name"
+76-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:65:9-41
+77        android:testOnly="true"
+78        android:theme="@style/AppTheme" >
+78-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:66:9-40
+79        <service android:name="com.yocle.app.MyFirebaseService" >
+79-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:70:9-74:19
+79-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:70:18-51
+80            <intent-filter>
+80-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:71:13-73:29
+81                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+81-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:72:17-78
+81-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:72:25-75
+82            </intent-filter>
+83        </service>
+84
+85        <meta-data
+85-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:77:9-79:69
+86            android:name="com.google.android.gms.version"
+86-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:78:13-58
+87            android:value="@integer/google_play_services_version" />
+87-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:79:13-66
+88
+89        <activity
+89-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:81:9-89:20
+90            android:name="com.yocle.app.SplashActivity"
+90-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:82:13-43
+91            android:theme="@style/SplashTheme" >
+91-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:83:13-47
+92            <intent-filter>
+92-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:84:13-88:29
+93                <action android:name="android.intent.action.MAIN" />
+93-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:85:17-69
+93-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:85:25-66
+94
+95                <category android:name="android.intent.category.LAUNCHER" />
+95-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:87:17-77
+95-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:87:27-74
+96            </intent-filter>
+97        </activity>
+98        <activity
+98-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:90:9-98:20
+99            android:name="com.yocle.app.MainActivity"
+99-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:91:13-41
+100            android:configChanges="orientation|screenSize"
+100-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:92:13-59
+101            android:label="@string/app_name"
+101-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:93:13-45
+102            android:launchMode="singleTop" >
+102-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:94:13-43
+103            <intent-filter>
+103-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:95:13-97:29
+104                <action android:name="android.intent.action.MAIN" />
+104-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:85:17-69
+104-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:85:25-66
+105            </intent-filter>
+106        </activity>
+107        <activity
+107-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:99:9-102:57
+108            android:name="com.yocle.app.WebViewActivity"
+108-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:100:13-44
+109            android:configChanges="orientation|screenSize"
+109-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:101:13-59
+110            android:label="@string/app_name" />
+110-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:102:13-45
+111<!--         <service android:name=".GCMNotificationIntentService" /> -->
+112        <!--
+113        <activity
+114            android:name="com.yocle.app.YouTubeActivity"
+115            android:label="Youtube player" >
+116            <meta-data
+117                android:name="minVersion"
+118                android:value="8" />
+119            <meta-data
+120                android:name="isLaunchableActivity"
+121                android:value="true" />
+122        </activity>
+123        -->
+124        <activity
+124-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:118:9-121:57
+125            android:name="com.yocle.app.EditTextActivity"
+125-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:119:13-45
+126            android:configChanges="orientation|screenSize"
+126-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:120:13-59
+127            android:label="@string/app_name" />
+127-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:121:13-45
+128
+129        <meta-data
+129-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:123:9-125:55
+130            android:name="com.facebook.sdk.ApplicationId"
+130-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:124:13-58
+131            android:value="@string/facebook_app_id" />
+131-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:125:13-52
+132
+133        <service
+133-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:127:9-129:40
+134            android:name="com.yocle.app.OverlayButtonService"
+134-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:128:13-49
+135            android:exported="false" />
+135-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:129:13-37
+136        <service
+136-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:130:9-132:40
+137            android:name="com.yocle.app.GetAppVersionService"
+137-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:131:13-49
+138            android:exported="false" />
+138-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:132:13-37
+139
+140        <activity
+140-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:134:9-137:79
+141            android:name="com.yocle.app.MyVideoPlayer"
+141-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:135:13-42
+142            android:configChanges="orientation|screenSize"
+142-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:136:13-59
+143            android:label="@string/title_activity_my_video_player" />
+143-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:137:13-67
+144        <activity
+144-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:138:9-147:20
+145            android:name="com.yocle.app.SwipeActivity"
+145-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:139:13-42
+146            android:configChanges="orientation|screenSize"
+146-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:140:13-59
+147            android:label="@string/app_name" >
+147-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:141:13-45
+148            <intent-filter>
+148-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:95:13-97:29
+149                <action android:name="android.intent.action.MAIN" />
+149-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:85:17-69
+149-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:85:25-66
+150
+151                <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+152            </intent-filter>
+153        </activity>
+154        <!--
+155             FirebaseMessagingService performs security checks at runtime,
+156             but set to not exported to explicitly avoid allowing another app to call it.
+157        -->
+158        <service
+158-->[com.google.firebase:firebase-messaging:20.1.0] /Users/alan/.gradle/caches/transforms-2/files-2.1/5eb0385b9764a50b37bbb5fb36e5d960/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:28:9-34:19
+159            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+159-->[com.google.firebase:firebase-messaging:20.1.0] /Users/alan/.gradle/caches/transforms-2/files-2.1/5eb0385b9764a50b37bbb5fb36e5d960/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:29:13-82
+160            android:exported="false" >
+160-->[com.google.firebase:firebase-messaging:20.1.0] /Users/alan/.gradle/caches/transforms-2/files-2.1/5eb0385b9764a50b37bbb5fb36e5d960/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:30:13-37
+161            <intent-filter android:priority="-500" >
+161-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:71:13-73:29
+162                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+162-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:72:17-78
+162-->/Users/alan/gdrive/_WEB/yocle/_app_android/yocle-android-1.3/app/src/main/AndroidManifest.xml:72:25-75
+163            </intent-filter>
+164        </service>
+165        <service
+165-->[com.google.firebase:firebase-messaging:20.1.0] /Users/alan/.gradle/caches/transforms-2/files-2.1/5eb0385b9764a50b37bbb5fb36e5d960/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:35:9-41:19
+166            android:name="com.google.firebase.components.ComponentDiscoveryService"
+166-->[com.google.firebase:firebase-messaging:20.1.0] /Users/alan/.gradle/caches/transforms-2/files-2.1/5eb0385b9764a50b37bbb5fb36e5d960/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:36:13-84
+167            android:directBootAware="true"
+167-->[com.google.firebase:firebase-common:19.3.0] /Users/alan/.gradle/caches/transforms-2/files-2.1/fcad051ad0cffdfa464b855135f7b613/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+168            android:exported="false" >
+168-->[com.google.firebase:firebase-messaging:20.1.0] /Users/alan/.gradle/caches/transforms-2/files-2.1/5eb0385b9764a50b37bbb5fb36e5d960/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:37:13-37
+169            <meta-data
+169-->[com.google.firebase:firebase-messaging:20.1.0] /Users/alan/.gradle/caches/transforms-2/files-2.1/5eb0385b9764a50b37bbb5fb36e5d960/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:38:13-40:85
+170                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+170-->[com.google.firebase:firebase-messaging:20.1.0] /Users/alan/.gradle/caches/transforms-2/files-2.1/5eb0385b9764a50b37bbb5fb36e5d960/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:39:17-119
+171                android:value="com.google.firebase.components.ComponentRegistrar" />
+171-->[com.google.firebase:firebase-messaging:20.1.0] /Users/alan/.gradle/caches/transforms-2/files-2.1/5eb0385b9764a50b37bbb5fb36e5d960/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:40:17-82
+172            <meta-data
+172-->[com.google.android.gms:play-services-measurement-api:17.2.1] /Users/alan/.gradle/caches/transforms-2/files-2.1/559f094854fa85bd072da76bc0e0e01f/play-services-measurement-api-17.2.1/AndroidManifest.xml:30:13-32:85
+173                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+173-->[com.google.android.gms:play-services-measurement-api:17.2.1] /Users/alan/.gradle/caches/transforms-2/files-2.1/559f094854fa85bd072da76bc0e0e01f/play-services-measurement-api-17.2.1/AndroidManifest.xml:31:17-139
+174                android:value="com.google.firebase.components.ComponentRegistrar" />
+174-->[com.google.android.gms:play-services-measurement-api:17.2.1] /Users/alan/.gradle/caches/transforms-2/files-2.1/559f094854fa85bd072da76bc0e0e01f/play-services-measurement-api-17.2.1/AndroidManifest.xml:32:17-82
+175            <meta-data
+175-->[com.google.firebase:firebase-iid:20.0.2] /Users/alan/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:32:13-34:85
+176                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+176-->[com.google.firebase:firebase-iid:20.0.2] /Users/alan/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:33:17-96
+177                android:value="com.google.firebase.components.ComponentRegistrar" />
+177-->[com.google.firebase:firebase-iid:20.0.2] /Users/alan/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:34:17-82
+178            <meta-data
+178-->[com.google.firebase:firebase-datatransport:17.0.3] /Users/alan/.gradle/caches/transforms-2/files-2.1/e0da70c9258f6893a2373fb18ae7e095/firebase-datatransport-17.0.3/AndroidManifest.xml:28:13-30:85
+179                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+179-->[com.google.firebase:firebase-datatransport:17.0.3] /Users/alan/.gradle/caches/transforms-2/files-2.1/e0da70c9258f6893a2373fb18ae7e095/firebase-datatransport-17.0.3/AndroidManifest.xml:29:17-115
+180                android:value="com.google.firebase.components.ComponentRegistrar" />
+180-->[com.google.firebase:firebase-datatransport:17.0.3] /Users/alan/.gradle/caches/transforms-2/files-2.1/e0da70c9258f6893a2373fb18ae7e095/firebase-datatransport-17.0.3/AndroidManifest.xml:30:17-82
+181        </service>
+182
+183        <receiver
+183-->[com.google.firebase:firebase-iid:20.0.2] /Users/alan/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:37:9-44:20
+184            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+184-->[com.google.firebase:firebase-iid:20.0.2] /Users/alan/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:38:13-78
+185            android:exported="true"
+185-->[com.google.firebase:firebase-iid:20.0.2] /Users/alan/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:39:13-36
+186            android:permission="com.google.android.c2dm.permission.SEND" >
+186-->[com.google.firebase:firebase-iid:20.0.2] /Users/alan/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:40:13-73
+187            <intent-filter>
+187-->[com.google.firebase:firebase-iid:20.0.2] /Users/alan/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:41:13-43:29
+188                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+188-->[com.google.firebase:firebase-iid:20.0.2] /Users/alan/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:42:17-81
+188-->[com.google.firebase:firebase-iid:20.0.2] /Users/alan/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:42:25-78
+189            </intent-filter>
+190        </receiver>
+191        <receiver
+191-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/alan/.gradle/caches/transforms-2/files-2.1/1d7fa4c15cc347978dce90a6ff08e8ee/play-services-measurement-17.2.1/AndroidManifest.xml:29:9-33:20
+192            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+192-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/alan/.gradle/caches/transforms-2/files-2.1/1d7fa4c15cc347978dce90a6ff08e8ee/play-services-measurement-17.2.1/AndroidManifest.xml:30:13-85
+193            android:enabled="true"
+193-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/alan/.gradle/caches/transforms-2/files-2.1/1d7fa4c15cc347978dce90a6ff08e8ee/play-services-measurement-17.2.1/AndroidManifest.xml:31:13-35
+194            android:exported="false" >
+194-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/alan/.gradle/caches/transforms-2/files-2.1/1d7fa4c15cc347978dce90a6ff08e8ee/play-services-measurement-17.2.1/AndroidManifest.xml:32:13-37
+195        </receiver>
+196        <receiver
+196-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/alan/.gradle/caches/transforms-2/files-2.1/1d7fa4c15cc347978dce90a6ff08e8ee/play-services-measurement-17.2.1/AndroidManifest.xml:34:9-42:20
+197            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+197-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/alan/.gradle/caches/transforms-2/files-2.1/1d7fa4c15cc347978dce90a6ff08e8ee/play-services-measurement-17.2.1/AndroidManifest.xml:35:13-100
+198            android:enabled="true"
+198-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/alan/.gradle/caches/transforms-2/files-2.1/1d7fa4c15cc347978dce90a6ff08e8ee/play-services-measurement-17.2.1/AndroidManifest.xml:36:13-35
+199            android:exported="true"
+199-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/alan/.gradle/caches/transforms-2/files-2.1/1d7fa4c15cc347978dce90a6ff08e8ee/play-services-measurement-17.2.1/AndroidManifest.xml:37:13-36
+200            android:permission="android.permission.INSTALL_PACKAGES" >
+200-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/alan/.gradle/caches/transforms-2/files-2.1/1d7fa4c15cc347978dce90a6ff08e8ee/play-services-measurement-17.2.1/AndroidManifest.xml:38:13-69
+201            <intent-filter>
+201-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/alan/.gradle/caches/transforms-2/files-2.1/1d7fa4c15cc347978dce90a6ff08e8ee/play-services-measurement-17.2.1/AndroidManifest.xml:39:13-41:29
+202                <action android:name="com.android.vending.INSTALL_REFERRER" />
+202-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/alan/.gradle/caches/transforms-2/files-2.1/1d7fa4c15cc347978dce90a6ff08e8ee/play-services-measurement-17.2.1/AndroidManifest.xml:40:17-79
+202-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/alan/.gradle/caches/transforms-2/files-2.1/1d7fa4c15cc347978dce90a6ff08e8ee/play-services-measurement-17.2.1/AndroidManifest.xml:40:25-76
+203            </intent-filter>
+204        </receiver>
+205
+206        <service
+206-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/alan/.gradle/caches/transforms-2/files-2.1/1d7fa4c15cc347978dce90a6ff08e8ee/play-services-measurement-17.2.1/AndroidManifest.xml:44:9-47:40
+207            android:name="com.google.android.gms.measurement.AppMeasurementService"
+207-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/alan/.gradle/caches/transforms-2/files-2.1/1d7fa4c15cc347978dce90a6ff08e8ee/play-services-measurement-17.2.1/AndroidManifest.xml:45:13-84
+208            android:enabled="true"
+208-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/alan/.gradle/caches/transforms-2/files-2.1/1d7fa4c15cc347978dce90a6ff08e8ee/play-services-measurement-17.2.1/AndroidManifest.xml:46:13-35
+209            android:exported="false" />
+209-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/alan/.gradle/caches/transforms-2/files-2.1/1d7fa4c15cc347978dce90a6ff08e8ee/play-services-measurement-17.2.1/AndroidManifest.xml:47:13-37
+210        <service
+210-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/alan/.gradle/caches/transforms-2/files-2.1/1d7fa4c15cc347978dce90a6ff08e8ee/play-services-measurement-17.2.1/AndroidManifest.xml:48:9-52:72
+211            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+211-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/alan/.gradle/caches/transforms-2/files-2.1/1d7fa4c15cc347978dce90a6ff08e8ee/play-services-measurement-17.2.1/AndroidManifest.xml:49:13-87
+212            android:enabled="true"
+212-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/alan/.gradle/caches/transforms-2/files-2.1/1d7fa4c15cc347978dce90a6ff08e8ee/play-services-measurement-17.2.1/AndroidManifest.xml:50:13-35
+213            android:exported="false"
+213-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/alan/.gradle/caches/transforms-2/files-2.1/1d7fa4c15cc347978dce90a6ff08e8ee/play-services-measurement-17.2.1/AndroidManifest.xml:51:13-37
+214            android:permission="android.permission.BIND_JOB_SERVICE" />
+214-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/alan/.gradle/caches/transforms-2/files-2.1/1d7fa4c15cc347978dce90a6ff08e8ee/play-services-measurement-17.2.1/AndroidManifest.xml:52:13-69
+215
+216        <provider
+216-->[com.google.firebase:firebase-common:19.3.0] /Users/alan/.gradle/caches/transforms-2/files-2.1/fcad051ad0cffdfa464b855135f7b613/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
+217            android:name="com.google.firebase.provider.FirebaseInitProvider"
+217-->[com.google.firebase:firebase-common:19.3.0] /Users/alan/.gradle/caches/transforms-2/files-2.1/fcad051ad0cffdfa464b855135f7b613/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
+218            android:authorities="com.yocle.app.firebaseinitprovider"
+218-->[com.google.firebase:firebase-common:19.3.0] /Users/alan/.gradle/caches/transforms-2/files-2.1/fcad051ad0cffdfa464b855135f7b613/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
+219            android:exported="false"
+219-->[com.google.firebase:firebase-common:19.3.0] /Users/alan/.gradle/caches/transforms-2/files-2.1/fcad051ad0cffdfa464b855135f7b613/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
+220            android:initOrder="100" />
+220-->[com.google.firebase:firebase-common:19.3.0] /Users/alan/.gradle/caches/transforms-2/files-2.1/fcad051ad0cffdfa464b855135f7b613/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
+221
+222        <activity
+222-->[com.google.android.gms:play-services-base:17.0.0] /Users/alan/.gradle/caches/transforms-2/files-2.1/b989d78505a527364775fcd163b70614/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+223            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+223-->[com.google.android.gms:play-services-base:17.0.0] /Users/alan/.gradle/caches/transforms-2/files-2.1/b989d78505a527364775fcd163b70614/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+224            android:exported="false"
+224-->[com.google.android.gms:play-services-base:17.0.0] /Users/alan/.gradle/caches/transforms-2/files-2.1/b989d78505a527364775fcd163b70614/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+225            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+225-->[com.google.android.gms:play-services-base:17.0.0] /Users/alan/.gradle/caches/transforms-2/files-2.1/b989d78505a527364775fcd163b70614/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+226
+227        <service
+227-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/alan/.gradle/caches/transforms-2/files-2.1/77181b27b36cb37ae3fc9cbfe9ccb0de/transport-backend-cct-2.2.0/AndroidManifest.xml:29:9-35:19
+228            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+228-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/alan/.gradle/caches/transforms-2/files-2.1/77181b27b36cb37ae3fc9cbfe9ccb0de/transport-backend-cct-2.2.0/AndroidManifest.xml:30:13-103
+229            android:exported="false" >
+229-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/alan/.gradle/caches/transforms-2/files-2.1/77181b27b36cb37ae3fc9cbfe9ccb0de/transport-backend-cct-2.2.0/AndroidManifest.xml:31:13-37
+230            <meta-data
+230-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/alan/.gradle/caches/transforms-2/files-2.1/77181b27b36cb37ae3fc9cbfe9ccb0de/transport-backend-cct-2.2.0/AndroidManifest.xml:32:13-34:39
+231                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+231-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/alan/.gradle/caches/transforms-2/files-2.1/77181b27b36cb37ae3fc9cbfe9ccb0de/transport-backend-cct-2.2.0/AndroidManifest.xml:33:17-94
+232                android:value="cct" />
+232-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/alan/.gradle/caches/transforms-2/files-2.1/77181b27b36cb37ae3fc9cbfe9ccb0de/transport-backend-cct-2.2.0/AndroidManifest.xml:34:17-36
+233        </service>
+234        <service
+234-->[com.google.android.datatransport:transport-runtime:2.2.0] /Users/alan/.gradle/caches/transforms-2/files-2.1/de57d140c5b40ac4922d63a6d65b36af/transport-runtime-2.2.0/AndroidManifest.xml:26:9-30:19
+235            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+235-->[com.google.android.datatransport:transport-runtime:2.2.0] /Users/alan/.gradle/caches/transforms-2/files-2.1/de57d140c5b40ac4922d63a6d65b36af/transport-runtime-2.2.0/AndroidManifest.xml:27:13-117
+236            android:exported="false"
+236-->[com.google.android.datatransport:transport-runtime:2.2.0] /Users/alan/.gradle/caches/transforms-2/files-2.1/de57d140c5b40ac4922d63a6d65b36af/transport-runtime-2.2.0/AndroidManifest.xml:28:13-37
+237            android:permission="android.permission.BIND_JOB_SERVICE" >
+237-->[com.google.android.datatransport:transport-runtime:2.2.0] /Users/alan/.gradle/caches/transforms-2/files-2.1/de57d140c5b40ac4922d63a6d65b36af/transport-runtime-2.2.0/AndroidManifest.xml:29:13-69
+238        </service>
+239
+240        <receiver
+240-->[com.google.android.datatransport:transport-runtime:2.2.0] /Users/alan/.gradle/caches/transforms-2/files-2.1/de57d140c5b40ac4922d63a6d65b36af/transport-runtime-2.2.0/AndroidManifest.xml:32:9-34:40
+241            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+241-->[com.google.android.datatransport:transport-runtime:2.2.0] /Users/alan/.gradle/caches/transforms-2/files-2.1/de57d140c5b40ac4922d63a6d65b36af/transport-runtime-2.2.0/AndroidManifest.xml:33:13-132
+242            android:exported="false" />
+242-->[com.google.android.datatransport:transport-runtime:2.2.0] /Users/alan/.gradle/caches/transforms-2/files-2.1/de57d140c5b40ac4922d63a6d65b36af/transport-runtime-2.2.0/AndroidManifest.xml:34:13-37
+243    </application>
+244
+245</manifest>
